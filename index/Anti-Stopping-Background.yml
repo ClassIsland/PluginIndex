@@ -1,0 +1,12 @@
+id: Anti_Stopping_Background
+name: Anti-Stopping-Background
+description: 阻止ClassIsland被结束进程
+entranceAssembly: "AntiStoppingBackground.dll"
+url: https://github.com/PULLUP114514/Anti-Stopping-Background
+icon: icon.png
+version: 1.0.0.0
+apiVersion: 1.5.0.3
+author: BSODWTPC
+repoOwner: PULLUP114514
+repoName: Anti-Stopping-Background
+assetsRoot: master/.
