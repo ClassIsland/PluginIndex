@@ -1,0 +1,15 @@
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: dev.hellowrc.classisland.moreSplashScreen
+name: MoreSplashScreen
+description: 向 ClassIsland 添加更丰富多彩的启动画面！
+entranceAssembly: "MoreSplashScreen.dll"
+url: https://github.com/HelloWRC/MoreSplashScreen
+version: 0.0.1.0
+apiVersion: 1.7.0
+author: HelloWRC
+repoOwner: HelloWRC
+repoName: MoreSplashScreen
+assetsRoot: master/MoreSplashScreen
