@@ -1,0 +1,15 @@
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: LECIA
+name: LECIA
+description: 将Ci的课表发送到物理设备
+entranceAssembly: "LECIA.dll"
+url: https://github.com/PULLUP114514/LECIA
+version: 0.0.0.1
+apiVersion: 1.6.0.1
+author: BSODWTPC
+repoOwner: PULLUP114514
+repoName: LECIA
+assetsRoot: master
