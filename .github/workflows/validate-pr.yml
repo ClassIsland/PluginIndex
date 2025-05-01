@@ -21,12 +21,14 @@ jobs:
 
       - name: Install Index Generator
         run: |
-          Invoke-WebRequest -Uri https://github.com/ClassIsland/ClassIsland.PluginIndexGenerator/releases/download/1.0.1.2/ClassIsland.PluginIndexGenerator.zip -OutFile ClassIsland.PluginIndexGenerator.zip
+          Invoke-WebRequest -Uri https://github.com/ClassIsland/ClassIsland.PluginIndexGenerator/releases/download/1.1.0.0/ClassIsland.PluginIndexGenerator.zip -OutFile ClassIsland.PluginIndexGenerator.zip
           Expand-Archive -Path ClassIsland.PluginIndexGenerator.zip -DestinationPath .
       
       - name: Validate Plugin Index
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir out/source/
-          ./ClassIsland.PluginIndexGenerator.exe index out/source/index.json -b base.json -v true
+          ./ClassIsland.PluginIndexGenerator.exe index/ out/source/ -b base.json -v true -t $env:GITHUB_TOKEN
           
 
