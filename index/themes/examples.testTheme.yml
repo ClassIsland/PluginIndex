@@ -1,0 +1,10 @@
+id: examples.testTheme  # 插件 id
+name: TestTheme  # 插件名称
+description: 测试用主题  # 插件描述
+url: https://github.com/ClassIsland/ClassIsland.ThemeLoader # 插件 Url
+author: HelloWRC  # 插件作者
+version: 1.0.0.0  # 插件版本
+repoOwner: ClassIsland
+repoName: ClassIsland.ThemeLoader
+assetsRoot: master/examples/TestTheme
+artifactName: TestTheme.zip
