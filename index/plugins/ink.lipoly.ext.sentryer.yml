@@ -1,0 +1,11 @@
+id: ink.lipoly.ext.sentryer
+name: Sentryer
+description: 连接到Sentry实例
+entranceAssembly: "Sentryer.dll"
+url: https://github.com/LiPolymer/Sentryer
+version: 0.0.1.0
+apiVersion: 1.6.2
+author: LiPolymer
+repoOwner: LiPolymer
+repoName: Sentryer
+assetsRoot: master/
