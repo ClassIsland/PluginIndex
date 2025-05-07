@@ -1,11 +1,11 @@
 id: jiangyin14.today
 name: TodayIsland
-apiVersion: 1.5.0.3
+apiVersion: 1.6.0.5
 description: 插件描述
 entranceAssembly: "TodayIsland.dll"
 url: https://github.com/jiangyin14/TodayIsland
 author: jiangyin14
-version: 0.0.0.2
+version: 0.0.0.3
 readme: README.md
 icon: icon.png
 repoOwner: jiangyin14
