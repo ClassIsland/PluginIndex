@@ -1,0 +1,11 @@
+id: dev.hellowrc.fluent.compacted  # 插件 id
+name: Fluent Compacted  # 插件名称
+description: Fluent 风格主题（紧凑版本）  # 插件描述
+url: https://github.com/HelloWRC/FluentThemes # 插件 Url
+author: HelloWRC  # 插件作者
+version: 1.0.0.0  # 插件版本
+repoOwner: HelloWRC
+repoName: FluentThemes
+assetsRoot: master/FluentCompacted
+artifactName: FluentCompacted.zip
+banner: banner.png
