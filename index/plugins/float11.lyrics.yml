@@ -9,5 +9,5 @@ version: 1.0.0.5  # 插件版本
 readme: README.md
 icon: icon.png
 repoOwner: F7YM
-repoName: LyricsIsland
+repoName: LyricsIsland-Hyper-V
 assetsRoot: master/.
