@@ -1,0 +1,13 @@
+id: float11.lyrics  # 插件 id
+name: LyricsIsland-Hyper-V  # 插件名称
+apiVersion: 1.5.0.3  # 插件面向的 ClassIsland 版本
+description: 兼容 Hyper-V 的LyricsIsland。  # 插件描述
+entranceAssembly: "LyricsComponent.dll"  # 插件入口程序集
+url: https://github.com/F7YM/LyricsIsland-Hyper-V  # 插件 Url
+author: Float11,jiangyin14,LiPolymer  # 插件作者
+version: 1.0.0.5  # 插件版本
+readme: README.md
+icon: icon.png
+repoOwner: F7YM
+repoName: LyricsIsland-Hyper-V
+assetsRoot: master/.
