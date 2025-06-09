@@ -1,0 +1,15 @@
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: InkeysCI_Linkage
+name: 智绘教Inkeys CI联动
+description: 让 智绘教Inkeys 与 ClassIsland 联动，解锁许多实用又有趣的功能。
+entranceAssembly: "InkeysCI_Linkage.dll"
+url: https://github.com/Alan-CRL/InkeysCI_Linkage
+version: 0.1.0.0
+apiVersion: 1.6.0
+author: AlanCRL
+repoOwner: Alan-CRL
+repoName: InkeysCI_Linkage
+assetsRoot: main/InkeysCI_Linkage
