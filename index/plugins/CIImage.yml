@@ -1,8 +1,13 @@
+id: CIImage
+name: CIImage
 description: 显示点图片呗
 entranceAssembly: "CIImage.dll"
 url: https://github.com/lrsgzs/CIImage
-version: 1.0.1.0
+version: 1.0.2.0
 apiVersion: 1.6.0.5
 author: lrsgzs
 readme: README.md
 icon: icon.png
+repoOwner: lrsgzs
+repoName: CIImage
+assetsRoot: master/CIImage
