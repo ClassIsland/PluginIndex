@@ -3,7 +3,7 @@ name: GSVIsland
 description: 使 Classisland 的语音服务适配 GPT-SoVITS 推理特化包（GSVI）的 API
 entranceAssembly: "GSVIsland.dll"
 url: https://github.com/Pulsar33550336/GSVIsland
-version: 1.0.0.0
+version: 1.0.0.1
 apiVersion: 1.7.0.1
 author: Pulsar33550336
 repoOwner: Pulsar33550336
