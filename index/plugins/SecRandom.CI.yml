@@ -1,0 +1,11 @@
+id: SecRandom.CI
+name: SecRandom CI
+description: SecRandom x ClassIsland 联动
+entranceAssembly: "SecRandom-CI.dll"
+url: https://github.com/SECTL/SecRandom-CI
+version: 1.0.0.0
+apiVersion: 1.6.0.5
+author: SECTL
+repoOwner: SECTL
+repoName: SecRandom-CI
+assetsRoot: master/SecRandom-CI
