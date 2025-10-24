@@ -1,0 +1,15 @@
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: LiuYan_xwx.MonitorIsland.AvaloniaPort
+name: MonitorIsland-AvaloniaPort
+description: MonitorIsland的Avalonia兼容版，为Ci2.0打造。在主界面监控您的硬件资源使用状态（CPU，内存...）
+entranceAssembly: "MonitorIsland.dll"
+url: https://github.com/LiuYan-xwx/MonitorIsland-AvaloniaPort
+version: 1.6.0
+apiVersion: 2.0.0.0
+author: 流焰xwx
+repoOwner: LiuYan-xwx
+repoName: MonitorIsland-AvaloniaPort
+assetsRoot: main/
