@@ -1,0 +1,8 @@
+id: laoshui.voicehub
+name: VoiceHub广播站排期
+description: 展示广播站当日排期歌曲，按播放顺序显示歌曲信息
+entranceAssembly: "VoiceHubComponent.dll"
+url: https://github.com/laoshuikaixue/VoiceHubComponent
+repoOwner: laoshuikaixue
+repoName: VoiceHubComponent
+assetsRoot: main/VoiceHubComponent
