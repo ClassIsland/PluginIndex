@@ -1,6 +1,6 @@
 id: Jurangren.pyexecutor
 name: PyExecutor
-description: �����Զ��� Python ���벢�������ʾ�����
+description: 运行自定义 Python 代码并将结果显示在组件
 entranceAssembly: "PyExecutor.dll"
 url: https://github.com/Jurangren/pyexecutor-classisland
 version: 1.0.0.0
