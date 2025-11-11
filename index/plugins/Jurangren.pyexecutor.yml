@@ -1,0 +1,11 @@
+id: Jurangren.pyexecutor
+name: PyExecutor
+description: �����Զ��� Python ���벢�������ʾ�����
+entranceAssembly: "PyExecutor.dll"
+url: https://github.com/Jurangren/pyexecutor-classisland
+version: 1.0.0.0
+apiVersion: 1.6.0
+author: Jurangren
+repoOwner: Jurangren
+repoName: pyexecutor-classisland
+assetsRoot: master/PyExecutor
