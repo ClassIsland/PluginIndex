@@ -1,0 +1,10 @@
+generators:
+  - id: plugin
+    input: plugins
+    output: index.json
+  - id: plugin
+    input: plugins-v2
+    output: index.v2.json
+  - id: theme
+    input: themes
+    output: themes.json
