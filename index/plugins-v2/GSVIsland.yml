@@ -4,7 +4,7 @@ description: 使 Classisland 的语音服务适配 GPT-SoVITS 推理特化包（
 entranceAssembly: "GSVIsland.dll"
 url: https://github.com/Gamma13-Software/GSVIsland
 version: 2.0.0.0
-apiVersion: 1.7.106.0
+apiVersion: 2.0.0.0
 author: Pulsar33550336
 repoOwner: Gamma13-Software
 repoName: GSVIsland
