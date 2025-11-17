@@ -21,7 +21,7 @@ jobs:
 
       - name: Install Index Generator
         run: |
-          Invoke-WebRequest -Uri https://github.com/ClassIsland/ClassIsland.PluginIndexGenerator/releases/download/1.1.0.0/ClassIsland.PluginIndexGenerator.zip -OutFile ClassIsland.PluginIndexGenerator.zip
+          Invoke-WebRequest -Uri https://github.com/ClassIsland/ClassIsland.PluginIndexGenerator/releases/download/1.1.1.0/ClassIsland.PluginIndexGenerator.zip -OutFile ClassIsland.PluginIndexGenerator.zip
           Expand-Archive -Path ClassIsland.PluginIndexGenerator.zip -DestinationPath .
       
       - name: Validate Plugin Index
