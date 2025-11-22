@@ -3,9 +3,8 @@ name: LycheeLib
 description: 为ClassIsland插件提供统一的歌词接口
 entranceAssembly: "LycheeLib.Island.dll"
 url: https://github.com/LiPolymer/LycheeLib
-version: 0.1.1.0
-tagPattern: 0.1.1.0
-apiVersion: 1.6.0
+version: 0.1.0.0
+apiVersion: 2.0.0.0
 author: LiPolymer
 repoOwner: LiPolymer
 repoName: LycheeLib
