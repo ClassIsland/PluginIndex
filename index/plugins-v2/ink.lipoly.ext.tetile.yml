@@ -1,0 +1,11 @@
+id: ink.lipoly.ext.tetile
+name: TeTile.Island
+description: 适用于 ClassIsland 的大学课表解析器
+entranceAssembly: "TeTile.Island.dll"
+url: https://gitlab.com/LiPolymer/TeTile
+version: 0.1.0.0
+apiVersion: 2.0.0.0
+author: LiPolymer
+repoOwner: LiPolymer
+repoName: TeTile
+assetsRoot: master/TeTile.Island
