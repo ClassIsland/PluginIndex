@@ -1,3 +1,4 @@
+# nonk8s
 # 插件清单文件使用 YAML 格式存储。
 # YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
 # 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
@@ -7,10 +8,10 @@ name: 以管理员身份自启动
 description: 通过计划任务，让 ClassIsland 在开机时以管理员身份自启动。
 entranceAssembly: "StartUpAsAdmin.dll"
 url: https://github.com/ClassIsland/StartUpAsAdmin
-version: 1.0.0.0
-apiVersion: 1.5.0
+version: 2.0.0.0
+apiVersion: 2.0.0.0
 icon: icon.ico
 author: ClassIsland
 repoOwner: ClassIsland
 repoName: StartUpAsAdmin
-tagPattern: 1.**
+tagPattern: 2.**
