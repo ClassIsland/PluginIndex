@@ -1,0 +1,16 @@
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: grantUiAccess
+name: UIAccess 提权
+description: 本插件可以为 ClassIsland 提升 UIAccess 令牌，使 ClassIsland 可以置顶到全屏 UWP 应用和系统界面上。
+entranceAssembly: "GrantUiAccess.dll"
+version: 2.0.0.0
+apiVersion: 2.0.0.0
+author: HelloWRC, Doubx690i
+url: https://github.com/HelloWRC/GrantUiAccess
+repoOwner: HelloWRC
+repoName: GrantUiAccess
+assetsRoot: master/GrantUiAccess
+tagPattern: 2.**

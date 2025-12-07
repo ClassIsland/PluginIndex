@@ -13,3 +13,4 @@ url: https://github.com/HelloWRC/GrantUiAccess
 repoOwner: HelloWRC
 repoName: GrantUiAccess
 assetsRoot: master/GrantUiAccess
+tagPattern: 1.**
