@@ -4,12 +4,13 @@
 
 id: LiuYan_xwx.MonitorIsland
 name: MonitorIsland
-description: 在主界面监控您的系统
+description: 在主界面实时监控系统硬件资源使用状态
 entranceAssembly: "MonitorIsland.dll"
 url: https://github.com/LiuYan-xwx/MonitorIsland
-version: 1.0.0
-apiVersion: 1.5.0
+version: 1.7.0
+apiVersion: 1.6.2.0
 author: 流焰xwx
 repoOwner: LiuYan-xwx
 repoName: MonitorIsland
 assetsRoot: master/
+tagPattern: 1.7.*
