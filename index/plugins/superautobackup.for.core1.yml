@@ -12,6 +12,6 @@ apiVersion: 1.4.2.0
 url: https://github.com/Programmer-MrWang/SuperAutoBackup
 repoOwner: Programmer-MrWang
 repoName: SuperAutoBackup
-assetsRoot: for_v1.x
+assetsRoot: for_v1.x/SuperAutoBackup
 artifactName: superautobackup.for.core1.cipx
 tagPattern: 0.1.*.*
