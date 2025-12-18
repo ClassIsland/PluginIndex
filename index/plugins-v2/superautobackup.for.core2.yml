@@ -12,5 +12,5 @@ apiVersion: 2.0.0.0
 entranceAssembly: "SuperAutoBackup.dll"
 repoOwner: Programmer-MrWang
 repoName: SuperAutoBackup
-assetsRoot: master
+assetsRoot: master/SuperAutoBackup
 artifactName: superautobackup.for.core2.cipx
