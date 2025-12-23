@@ -15,4 +15,5 @@ readme: README.md
 icon: icon.png
 repoOwner: Programmer-MrWang
 repoName: VoiceAction
-assetsRoot: master/VoiceAction
+assetsRoot: master
+
