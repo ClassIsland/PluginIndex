@@ -5,4 +5,4 @@ entranceAssembly: "VoiceHubComponent.dll"
 url: https://github.com/laoshuikaixue/VoiceHubComponent
 repoOwner: laoshuikaixue
 repoName: VoiceHubComponent
-assetsRoot: main
+assetsRoot: v2
