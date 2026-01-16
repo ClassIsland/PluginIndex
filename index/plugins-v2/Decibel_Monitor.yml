@@ -7,10 +7,11 @@ id: Decibel_Monitor
 name: Decibel_Monitor
 description: 声音大小监测
 entranceAssembly: "Decibel_Monitor.dll"
-url: https://example.com
+url: https://github.com/Yeson38/Decibel_Monitor/
 version: 0.0.0.1
 apiVersion: 2.0.0.0
 author: Yeson
 repoOwner: Yeson38
 repoName: Decibel_Monitor
-assetsRoot: master/Decibel_Monitor
+
+assetsRoot: master/
