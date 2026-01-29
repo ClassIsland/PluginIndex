@@ -6,3 +6,4 @@ url: https://github.com/ClassIsland/ClassIsland
 repoOwner: ClassIsland
 repoName: ExamplePlugins
 assetsRoot: master/HelloWorldPlugin
+tagPattern: 0.0.0.0
