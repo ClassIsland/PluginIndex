@@ -1,0 +1,9 @@
+id: PutIsland
+name: PutIsland
+description: 添加允许外部软件通过 POST http://localhost:36000/<token> 更新的文本组件
+entranceAssembly: "PutIsland.dll"
+url: https://github.com/PizeroLOL/PutIsland
+repoOwner: PizeroLOL
+repoName: PutIsland
+assetsRoot: master/
+artifactName: plugin.cipx
