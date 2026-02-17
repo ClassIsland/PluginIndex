@@ -4,8 +4,8 @@
 
 id: superautobackup.for.core2
 name: SuperAutoBackup
-description: （Buggy）为 ClassIsland 提供高级自动备份功能
-version: 0.2.0.0
+description: 为 ClassIsland 提供高级自动备份功能
+version: 1.0.0.0
 author: Programmer-MrWang
 homepage: https://github.com/Programmer-MrWang/SuperAutoBackup
 apiVersion: 2.0.0.0
