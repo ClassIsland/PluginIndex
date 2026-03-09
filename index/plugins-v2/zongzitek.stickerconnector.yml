@@ -1,0 +1,9 @@
+﻿id: zongzitek.stickerconnector
+name: ZongziTEK 黑板贴连接器
+description: 该插件能够让 ZongziTEK 黑板贴 与 ClassIsland 进行连接与交互。
+entranceAssembly: "ZongziTEK_Blackboard_Sticker_Connector.dll"
+url: https://zongzitek.top
+author: ZongziTEK
+repoOwner: ZongziTEK
+repoName: ZongziTEK-Blackboard-Sticker-Connector-for-ClassIsland
+assetsRoot: master/ZongziTEK_Blackboard_Sticker_Connector
