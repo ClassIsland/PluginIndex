@@ -3,11 +3,11 @@ name: HTTP 设置服务器
 description: 通过 HTTP API 远程修改 Class Island 组件设置
 entranceAssembly: "http_setting_server.dll"
 url: https://github.com/xiaoxixi222/http_setting_server
-version: 1.0.0.0
+version: 1.1.0.0
 apiVersion: 2.0.0.0
 author: xiaoxixi222
 repoOwner: xiaoxixi222
 repoName: http_setting_server
 assetsRoot: master/http_setting_server
 artifactName: http_setting_server.cipx
-tagPattern: 1.0.0.1
+tagPattern: 1.1.0.0
