@@ -1,0 +1,13 @@
+id: miaoda.random-quote
+name: 随机名言
+apiVersion: 2.0.0.0
+description: 每隔 10 秒从远端接口获取随机名言，在主界面组件上显示名言内容与来源。
+entranceAssembly: "RandomQuotePlugin.dll"
+url: https://github.com/qbw101/RandomQuotePlugin
+author: qbw
+version: 1.0.0.0
+readme: README.md
+icon: icon.png
+repoOwner: qbw101
+repoName: RandomQuotePlugin
+assetsRoot: main/RandomQuotePlugin
