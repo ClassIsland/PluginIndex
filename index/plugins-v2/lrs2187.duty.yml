@@ -7,7 +7,7 @@ name: DutyIsland
 description: 给 ClassIsland 加上值日表
 entranceAssembly: "DutyIsland.dll"
 url: https://github.com/lrsgzs/DutyIsland
-version: 0.1.0.0
+version: 0.2.3.1
 apiVersion: 2.0.0.0
 author: lrs2187
 readme: README.md
@@ -15,3 +15,8 @@ icon: icon.png
 repoOwner: lrsgzs
 repoName: DutyIsland
 assetsRoot: master/DutyIsland
+dependencies:
+  - id: lrs2187.sai
+    isRequired: false
+  - id: lrs2187.LibPinyin
+    isRequired: false
