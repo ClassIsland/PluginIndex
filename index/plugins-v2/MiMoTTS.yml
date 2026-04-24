@@ -3,7 +3,7 @@ name: MiMoTTS
 description: 使 ClassIsland 的语音服务适配 Xiaomi MiMo V2 TTS API
 entranceAssembly: "MiMoTTS.dll"
 url: https://github.com/lladlam/ClassIsland-MiMoTTS
-version: 1.1.0.0
+version: 1.2.3.6
 apiVersion: 2.0.0.0
 author: lladlam
 repoOwner: lladlam
