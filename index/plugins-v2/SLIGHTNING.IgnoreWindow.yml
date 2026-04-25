@@ -8,7 +8,7 @@ name: 忽略窗口
 description: 让 ClassIsland 规则集判断前台窗口信息时跳过被忽略的窗口，并把从顶到底第一个未被忽略的窗口当作前台窗口
 entranceAssembly: "IgnoreWindow.dll"
 url: https://github.com/S-LIGHTNING/Ignore-Window-ClassIsland-Plugin
-version: 1.0.0.0
+version: 1.0.1.0
 apiVersion: 2.0.0.0
 author: SLIGHTNING
 repoOwner: S-LIGHTNING
