@@ -1,0 +1,17 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: SLIGHTNING.IgnoreWindow
+name: 忽略窗口
+description: 让 ClassIsland 规则集判断前台窗口信息时跳过被忽略的窗口，并把从顶到底第一个未被忽略的窗口当作前台窗口
+entranceAssembly: "IgnoreWindow.dll"
+url: https://github.com/S-LIGHTNING/Ignore-Window-ClassIsland-Plugin
+version: 1.0.1.0
+apiVersion: 2.0.0.0
+author: SLIGHTNING
+repoOwner: S-LIGHTNING
+repoName: Ignore-Window-ClassIsland-Plugin
+assetsRoot: main
+artifactName: IgnoreWindow.cipx
