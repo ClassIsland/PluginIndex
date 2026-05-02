@@ -1,0 +1,14 @@
+id: HotspotService
+name: 移动热点守护助手
+description: 为 ClassIsland 提供 Windows 移动热点守护、守护目标同步与自动化 / 规则集接入能力。
+entranceAssembly: "HotspotService.dll"
+url: https://github.com/Alan-CRL/HotspotService
+version: 0.2.0.0
+apiVersion: 2.0.0.0
+author: AlanCRL
+supportedOSPlatforms:
+  - Windows
+
+repoOwner: Alan-CRL
+repoName: HotspotService
+assetsRoot: main/HotspotService
