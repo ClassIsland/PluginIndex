@@ -1,11 +1,11 @@
 id: dev.lladlam.lfg
 name: Liquid Flavored Glass
-description: 受 Apple Liquid Glass 设计语言启发的深色玻璃质感主题。
-url: https://github.com/lladlam/ClassIsland-YTBL
+description: 受 Apple Liquid Glass 设计语言启发的玻璃质感主题。
+url: https://github.com/lladlam/ClassIsland-Theme-LFG
 author: lladlam
 version: 1.0.0.0
 repoOwner: lladlam
-repoName: ClassIsland-YTBL
+repoName: ClassIsland-Theme-LFG
 assetsRoot: main/dev.lladlam.lfg
 artifactName: Liquid-Flavored-Glass.zip
 banner: banner.png
