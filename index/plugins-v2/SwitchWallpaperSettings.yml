@@ -3,7 +3,7 @@ name: SwitchWallpaperSettings
 description: 基于cs异步实现的支持切换契合度的系统壁纸切换器
 entranceAssembly: "SwitchWallpaperSettings.dll"
 url: https://github.com/inf2147483647/SwitchWallpaperSettings
-version: 1.0.0.0
+version: 1.0.0.4
 apiVersion: 2.0.0.0
 author: inf2147483647
 repoOwner: inf2147483647
