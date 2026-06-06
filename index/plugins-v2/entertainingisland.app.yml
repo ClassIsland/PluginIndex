@@ -1,0 +1,11 @@
+id: entertainingisland.app
+name: EntertainingIsland
+apiVersion: 2.0.0.0
+description: ClassIsland 娱乐功能插件 - 防巡堂警报、小说阅读器、口头禅计数器、RSS 新闻、头像课程表、点名器、体育赛事、下课倒计时
+entranceAssembly: "EntertainingIsland.dll"
+url: https://github.com/BSOD-MEMZ/EntertainingIsland
+author: xxt8582753
+version: 1.1.0.0
+repoOwner: BSOD-MEMZ
+repoName: EntertainingIsland
+assetsRoot: master/EntertainingIsland
