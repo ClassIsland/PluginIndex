@@ -1,0 +1,13 @@
+id: dev.hitokoto.plugin
+name: 一言 Hitokoto
+apiVersion: 2.0.0.0
+description: 在 ClassIsland 主界面显示一言（hitokoto.cn），支持 AI 内容审核。
+entranceAssembly: "HitokotoPlugin.dll"
+url: https://github.com/qbw101/Hitokoto-Plugin
+author: QBW
+version: 1.0.0.0
+icon: icon.png
+readme: README.md
+repoOwner: qbw101
+repoName: Hitokoto-Plugin
+assetsRoot: main/Hitokoto-Plugin
