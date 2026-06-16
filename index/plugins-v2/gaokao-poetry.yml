@@ -1,0 +1,13 @@
+id: gaokao-poetry
+name: 高考古诗文
+apiVersion: 2.0.0.2
+description: 随机展示高考必背60篇古诗文名句，支持按教材册别分类筛选，数据来源于 Clover Yan 的 gaokao-poetry 项目。
+entranceAssembly: "GaokaoPoetryPlugin.dll"
+url: https://github.com/xiaoxinxin-Zn/GaokaoPoetryPlugin
+author: Xin_Zn
+version: 1.1.0.0
+icon: icon.png
+readme: README.md
+repoOwner: xiaoxinxin-Zn
+repoName: GaokaoPoetryPlugin
+assetsRoot: master

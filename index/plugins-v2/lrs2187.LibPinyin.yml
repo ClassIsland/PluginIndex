@@ -1,0 +1,13 @@
+id: lrs2187.LibPinyin
+name: LibPinyin
+description: 拼音支持库
+entranceAssembly: "LibPinyin4CI.dll"
+url: https://github.com/lrsgzs/LibPinyin4CI
+version: 0.1.0.0
+apiVersion: 2.0.0.0
+author: lrs2187
+readme: README.md
+icon: icon.png
+repoOwner: lrsgzs
+repoName: LibPinyin4CI
+assetsRoot: master/LibPinyin4CI
