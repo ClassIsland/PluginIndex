@@ -1,0 +1,24 @@
+# 插件市场清单文件
+# 上架到 ClassIsland 插件市场：将此文件提交到
+#   https://github.com/ClassIsland/PluginIndex 的 index/plugins-v2/ 目录
+# 文档：https://docs.classisland.tech/dev/plugins/publishing.html
+
+id: liboning.worldcupscore
+name: 世界杯比分
+description: 轮播显示 2026 世界杯当天比赛与比分（北京时间和中文队名），未开始显示"比赛未开始"。
+entranceAssembly: "WorldCupScorePlugin.dll"
+url: https://github.com/liboning/WorldCupScorePlugin
+
+# --- 市场专用字段（manifest.yml 中不需要） ---
+repoOwner: liboning
+repoName: WorldCupScorePlugin
+assetsRoot: master/WorldCupScorePlugin
+artifactName: WorldCupScorePlugin.cipx
+tagPattern: 1.*.*.*
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: liboning
+supportedOSPlatforms:
+  - Windows
+  - Linux
+  - OSX
