@@ -1,0 +1,10 @@
+id: PikaBoo0.birthdayisland
+name: 生日显示插件
+apiVersion: 2.0.0.0
+description: 在 ClassIsland 主界面显示今日生日人数，并支持从 Excel 导入姓名与生日数据。
+entranceAssembly: "BirthdayIsland.dll"
+author: PikaBoo0
+url: https://github.com/jinzhiyuan0327/BirthdayIsland
+version: 2.5.0.0
+icon: icon.png
+readme: README.md
