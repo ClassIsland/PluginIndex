@@ -3,13 +3,9 @@ name: 便捷文本插件
 description: 桌面悬浮窗快速修改文本内容，支持颜色和字号调整
 entranceAssembly: "ConvenientText.dll"
 url: https://github.com/Tiny-Nick/ConvenientText
+version: 1.0.0.4
+apiVersion: 2.0.0.0
+author: Tiny-Nick
 repoOwner: Tiny-Nick
 repoName: ConvenientText
 assetsRoot: main/
-artifactName: ConvenientText.cipx
-tagPattern: *
-version: 1.0.0.3
-apiVersion: 2.0.0.0
-author: Tiny-Nick
-supportedOSPlatforms:
-- Windows
