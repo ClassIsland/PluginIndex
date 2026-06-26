@@ -1,0 +1,11 @@
+id: iCalClassIsland
+name: iCal 日程
+description: 从 iCal 文件加载当天的日程并显示在主界面上，支持实时进度显示、多文件合并、时间冲突检测、日历视图。
+entranceAssembly: "iCalClassIsland.dll"
+url: https://github.com/wjj-8283/iCalClassIsland
+repoOwner: wjj-8283
+repoName: iCalClassIsland
+assetsRoot: main/
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: wjj-8283
