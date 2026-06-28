@@ -1,6 +1,6 @@
 id: ClassIsland.AISmartClass
 name: AIIsland
-version: 1.1.0.0
+version: 1.2.0.0
 author: qbw
 description: AIIsland - 为 ClassIsland 添加 AI 驱动的智能课表提醒、学习仪表盘✨
 apiVersion: 2.0.0.0
