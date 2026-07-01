@@ -1,0 +1,15 @@
+id: ClassIsland.AISmartClass
+name: AIIsland
+version: 1.0.0.0
+author: qbw
+description: AIIsland - 为 ClassIsland 添加 AI 驱动的智能课表提醒、学习仪表盘✨
+apiVersion: 2.0.0.0
+entranceAssembly: "ClassIsland.AISmartClass.dll"
+url: https://github.com/qbw101/AIIsland
+icon: icon.png
+readme: README.md
+supportedOSPlatforms:
+  - Windows
+repoOwner: qbw101          # GitHub 仓库所有者，例如 qbw
+repoName: AIIsland           # GitHub 仓库名，例如 AIIsland
+assetsRoot: main/AIIsland  # <默认分支>/<插件相对仓库的路径>
