@@ -8,5 +8,5 @@ entranceAssembly: AdvancedTimeIsland.dll
 icon: icon.png
 website: https://github.com/inf2147483647/AdvancedTimeIsland
 repoName: AdvancedTimeIsland
-assetsRoot: master/AdvancedTimeIsland
+assetsRoot: master
 supportedOSPlatforms: [Windows]
