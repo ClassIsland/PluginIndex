@@ -6,4 +6,5 @@ url: https://github.com/fengjian868/HolidayCountdown
 repoOwner: fengjian868
 apiVersion: 2.0.0.0
 repoName: HolidayCountdown
-assetsRoot: main/
+assetsRoot: main
+author: fengjian868
