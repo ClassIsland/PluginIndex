@@ -1,0 +1,18 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: action.inquiryWindow
+name: 询问窗
+description: 触发后弹出询问窗口，点击按钮触发相关行动
+entranceAssembly: "InquiryWindow.dll"
+url: https://github.com/ywydog/InquiryWindow
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: ywydog
+readme: README.md
+icon: icon.png
+repoOwner: ywydog
+repoName: InquiryWindow
+assetsRoot: main
