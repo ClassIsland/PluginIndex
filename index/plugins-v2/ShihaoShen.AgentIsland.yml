@@ -1,0 +1,16 @@
+id: ShihaoShen.AgentIsland
+name: AgentIsland
+description: 你的课表，智能进化。
+entranceAssembly: "AgentIsland.dll"
+url: https://github.com/ShihaoShenDev/AgentIsland
+version: 0.1.0.0
+apiVersion: 2.0.0.0
+author: Shihao Shen
+repoOwner: ShihaoShenDev
+repoName: AgentIsland
+assetsRoot: main/AgentIsland
+supportedOSPlatforms:
+  - Windows
+dependencies:
+  - id: lrs2187.sai
+    isRequired: false
