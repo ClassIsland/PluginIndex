@@ -1,0 +1,11 @@
+id: ShihaoShen.Sentryer.CI2
+name: Sentryer for ClassIsland 2
+description: 为 ClassIsland 2 提供自定义的 Sentry 支持，实现遥测数据可控化。
+entranceAssembly: "Sentryer-CI2.dll"
+url: https://github.com/ShihaoShenDev/Sentryer-CI2
+version: 0.1.0.0
+apiVersion: 2.0.0.0
+author: Shihao Shen
+repoOwner: ShihaoShenDev
+repoName: Sentryer-CI2
+assetsRoot: master/
