@@ -1,0 +1,15 @@
+id: cn.classisland.minimax-tts
+name: MiniMax Speech TTS
+description: 将 MiniMax Speech 接入 ClassIsland，支持自定义模型、音色和持久化短语缓存。
+entranceAssembly: ClassIsland.MiniMaxTts.dll
+url: https://github.com/yijinyao0202/ClassIsland-MiniMaxTts
+version: 1.3.0.0
+apiVersion: 2.0.0.0
+author: yijinyao0202
+readme: README.md
+icon: icon.png
+repoOwner: yijinyao0202
+repoName: ClassIsland-MiniMaxTts
+assetsRoot: main
+artifactName: ClassIsland.MiniMaxTts.cipx
+supportedOSPlatforms: [Windows]
