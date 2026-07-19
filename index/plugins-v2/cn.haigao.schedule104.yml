@@ -3,7 +3,6 @@ name: 海亮教育+
 description: 适用于海亮教育的多周课表插件，集成长周期校准、休息日处理、班级时间表轮换、定时关机和值日生。
 entranceAssembly: ClassIsland.HaiGao104.dll
 url: https://github.com/yijinyao0202/ClassIsland-HaiLiangPlus
-version: 2.0.0.3
 apiVersion: 2.0.0.0
 author: 伊烬遥
 readme: README.md
