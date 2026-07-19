@@ -1,6 +1,6 @@
 id: cn.haigao.schedule104
 name: HL Education +
-description: 适用于 10+4、长周期轮换等非标准校园作息的多周课表插件，集成长周期校准、休息日处理、班级时间表轮换、定时关机和值日生。
+description: 适用于 10+4、长周期轮换等非标准校园作息的多周课表插件，集成长周期校准、休息日处理、班级时间表轮换、多个每日定时关机计划和值日生。
 entranceAssembly: ClassIsland.HaiGao104.dll
 url: https://github.com/yijinyao0202/ClassIsland-HaiLiangPlus
 apiVersion: 2.0.0.0
