@@ -1,0 +1,14 @@
+id: yty16.micwatch
+name: MicWatch
+description: 一个监控麦克风是否正在被使用的插件
+entranceAssembly: "MicWatch.dll"
+url: https://github.com/yty16/MicWatch
+repoOwner: yty16
+repoName: MicWatch
+assetsRoot: master/MicWatch
+artifactName: MicWatch.cipx
+version: 1.0.13.0
+apiVersion: 2.0.0.0
+author: yty16
+supportedOSPlatforms:
+- Windows
