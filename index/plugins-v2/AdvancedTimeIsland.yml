@@ -3,7 +3,7 @@ name: AdvancedTimeIsland
 version: 1.0.0.1
 apiVersion: 2.0.0.0
 author: inf2147483647
-description: 一个为ClassIsland提供高级时间管理功能的插件，支持精确时间触发器、时间范围条件和自定义日期显示。
+description: 高级时间管理插件，增强ClassIsland时间功能（指定时间触发等）
 entranceAssembly: AdvancedTimeIsland.dll
 icon: icon.png
 url: https://github.com/inf2147483647/AdvancedTimeIsland
