@@ -1,0 +1,13 @@
+id: com.bigscreen.clock
+name: 大屏时钟
+description: 自动全屏显示当前时间、教室分贝值（麦克风采集）和课程信息。支持连堂不退出，按课程分段统计吵闹次数。
+entranceAssembly: "EveningSelfStudyClock.dll"
+url: https://github.com/Human-air/BigScreenClock-For-ClassIsLand2.0
+repoOwner: Human-air
+repoName: BigScreenClock-For-ClassIsLand2.0
+assetsRoot: main/.
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: sokumei
+supportedOSPlatforms:
+- Windows
