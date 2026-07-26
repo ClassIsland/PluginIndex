@@ -7,7 +7,7 @@ repoOwner: yty16
 repoName: MicWatch
 assetsRoot: master/MicWatch
 artifactName: MicWatch.cipx
-version: 1.0.13.0
+version: 1.0.1.0
 apiVersion: 2.0.0.0
 author: yty16
 supportedOSPlatforms:
