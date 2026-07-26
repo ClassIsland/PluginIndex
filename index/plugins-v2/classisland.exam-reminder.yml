@@ -1,0 +1,15 @@
+id: classisland.exam-reminder
+name: 考试提醒
+description: 从学校考试看板同步班级考试，并在开考前提醒和提前打开考试大屏。
+entranceAssembly: "ClassIsland.ExamReminder.dll"
+url: https://github.com/PikaNova/ClassIsland.ExamReminder
+repoOwner: PikaNova
+repoName: ClassIsland.ExamReminder
+assetsRoot: main
+artifactName: ClassIsland.ExamReminder.cipx
+version: 0.2.6.0
+apiVersion: 2.0.0.0
+author: PikaNova
+supportedOSPlatforms:
+  - Windows
+  - Linux
