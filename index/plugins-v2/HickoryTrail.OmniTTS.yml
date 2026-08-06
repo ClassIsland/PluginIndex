@@ -1,0 +1,18 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: HickoryTrail.OmniTTS
+name: OmniTTS
+description: 多服务商 TTS API 聚合平台
+entranceAssembly: "OmniTTS.Plugin.dll"
+url: https://github.com/HickoryTrail/OmniTTS
+version: 1.0.0.0
+apiVersion: 2.1.1.0
+author: HickoryTrail
+icon: icon.png
+repoOwner: HickoryTrail
+repoName: OmniTTS
+assetsRoot: master/OmniTTS.Plugin/
+artifactName: HickoryTrail.OmniTTS.cipx
