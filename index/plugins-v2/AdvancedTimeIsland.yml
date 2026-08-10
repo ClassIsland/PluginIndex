@@ -3,7 +3,7 @@ name: AdvancedTimeIsland
 version: 1.0.0.1
 apiVersion: 2.0.0.0
 author: inf2147483647
-description: 高级时间管理插件，增强ClassIsland时间功能（指定时间触发等）
+description: 时光岛高级模块
 entranceAssembly: AdvancedTimeIsland.dll
 icon: icon.png
 url: https://github.com/inf2147483647/AdvancedTimeIsland
