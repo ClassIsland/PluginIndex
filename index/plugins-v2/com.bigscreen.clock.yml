@@ -5,8 +5,8 @@ entranceAssembly: "EveningSelfStudyClock.dll"
 url: https://github.com/Human-air/BigScreenClock-For-ClassIsLand2.0
 repoOwner: Human-air
 repoName: BigScreenClock-For-ClassIsLand2.0
-assetsRoot: main/.
-version: 1.0.0.0
+assetsRoot: main
+version: 1.0.1.0
 apiVersion: 2.0.0.0
 author: sokumei
 supportedOSPlatforms:
