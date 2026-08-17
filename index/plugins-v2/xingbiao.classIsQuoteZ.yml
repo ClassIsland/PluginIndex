@@ -1,8 +1,3 @@
-# nonk8s
-# 插件清单文件使用 YAML 格式存储。
-# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
-# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
-
 id: xingbiao.classIsQuoteZ
 name: ClassIsQuoteZ
 description: ClassIsland の 插件。可以把课表和更多事物带到 Quote/0 和你身边。
