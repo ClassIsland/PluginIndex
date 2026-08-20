@@ -7,7 +7,6 @@ repoName: NoDutyToday
 entranceAssembly: "NoDutyToday.dll"
 assetsRoot: main
 artifactName: NoDutyToday.cipx
-version: 0.0.1.0
 apiVersion: 2.0.0.0
 author: Tb
 supportedOSPlatforms:
