@@ -1,0 +1,14 @@
+id: NoDutyToday
+name: NoDutyToday
+description: 一个不会用DutyIsland的屑vibecoding实现的值日表。
+url: https://github.com/Tb114/NoDutyToday
+repoOwner: Tb114
+repoName: NoDutyToday
+entranceAssembly: "NoDutyToday.dll"
+assetsRoot: main
+artifactName: NoDutyToday.cipx
+version: 0.0.1.0
+apiVersion: 2.0.0.0
+author: Tb
+supportedOSPlatforms:
+- Windows
