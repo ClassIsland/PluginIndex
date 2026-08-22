@@ -1,0 +1,13 @@
+id: yty16.islandsmarthub
+name: IslandSmartHub 智慧家庭中枢
+description: 在 ClassIsland 中统一接入米家（小米智能家居）、Home Assistant、海尔智家、涂鸦（Tuya）与美的（Midea）五大平台，集中查看与控制全屋设备。支持桌面组件卡片、独立总控窗口、设备详情窗、系统托盘快捷控制、桌面快捷方式与自定义图标；并保留从 Home Assistant 反向控制本机（锁屏、睡眠、调音量、打开应用/网页）的能力。
+entranceAssembly: "IslandSmartHub.dll"
+url: https://github.com/yty16/IslandSmartHub
+version: 0.2.3.0
+apiVersion: 2.0.0.0
+author: yty16
+readme: README.md
+icon: icon.png
+repoOwner: yty16
+repoName: IslandSmartHub
+assetsRoot: main
