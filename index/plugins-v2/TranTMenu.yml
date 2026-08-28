@@ -1,0 +1,11 @@
+id: TranTMenu
+name: TranTMenu
+description: 将应用中所有文本框的默认英文右键菜单汉化为中文（剪切、复制、粘贴、全选）。
+entranceAssembly: "TranTMenu.dll"
+url: https://github.com/Tiny-Nick/TranTMenu
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: Tiny-Nick
+repoOwner: Tiny-Nick
+repoName: TranTMenu
+assetsRoot: main/

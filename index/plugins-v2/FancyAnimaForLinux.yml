@@ -1,0 +1,11 @@
+id: FancyAnimaForLinux
+name: FancyAnima For Linux
+description: （Linux）基于 CPU 渲染绘制的高性能提醒特效，低端设备更流畅
+entranceAssembly: "FancyAnimaForLinux.dll"
+url: https://github.com/Tiny-Nick/FancyAnimaForLinux
+version: 2.0.0.0
+apiVersion: 2.0.0.0
+author: Tiny-Nick
+repoOwner: Tiny-Nick
+repoName: FancyAnimaForLinux
+assetsRoot: main/
