@@ -8,7 +8,6 @@ name: 询问窗
 description: 触发后弹出询问窗口，点击按钮触发相关行动
 entranceAssembly: "InquiryWindow.dll"
 url: https://github.com/ywydog/InquiryWindow
-version: 1.0.0.0
 apiVersion: 2.0.0.0
 author: ywydog
 readme: README.md
