@@ -1,0 +1,10 @@
+id: xingbiao.classIsQuoteZ
+name: ClassIsQuoteZ
+description: ClassIsland の 插件。可以把课表和更多事物带到 Quote/0 和你身边。
+entranceAssembly: "ClassIsQuoteZ.dll"
+url: https://github.com/xingbiao996/ClassIsQuoteZ
+apiVersion: 2.0.0.0
+author: 星标
+repoOwner: xingbiao996
+repoName: ClassIsQuoteZ
+assetsRoot: master/ClassIsQuoteZ

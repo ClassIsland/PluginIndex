@@ -1,0 +1,9 @@
+id: laoshuikaixue.classlink
+name: ClassLink
+description: 在 ClassIsland 显示受支持播放器的高级歌词、封面与播放状态
+entranceAssembly: "VoiceHubComponent.dll"
+url: https://github.com/laoshuikaixue/ClassLink-ClassIsland
+repoOwner: laoshuikaixue
+repoName: ClassLink-ClassIsland
+assetsRoot: master
+apiVersion: 2.0.0.0

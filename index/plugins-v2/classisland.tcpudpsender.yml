@@ -1,0 +1,13 @@
+id: classisland.tcpudpsender
+name: TCP/UDP 课表发送器
+description: 通过 TCP/UDP 协议将课表实时发送到目标设备，支持 JSON 和纯文本格式，可自定义发送间隔和地址。
+entranceAssembly: "ClassIsland.TcpUdpSender.dll"
+url: https://github.com/ChenTianyu-CTY/ClassIsland.TcpUdpSender
+repoOwner: ChenTianyu-CTY
+repoName: ClassIsland.TcpUdpSender
+assetsRoot: main/ClassIsland.TcpUdpSender
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: CTY
+supportedOSPlatforms:
+  - Windows

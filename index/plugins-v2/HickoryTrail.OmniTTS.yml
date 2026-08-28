@@ -3,15 +3,16 @@
 # YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
 # 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
 
-id: IslandCaller.Plugin2
-name: IslandCaller
-description: 一个基于Classisland2.0插件的轻量级点名器
-entranceAssembly: "IslandCaller.Plugin2.dll"
-url: https://github.com/HickoryTrail/IslandCaller
+id: HickoryTrail.OmniTTS
+name: OmniTTS
+description: 多服务商 TTS API 聚合平台
+entranceAssembly: "OmniTTS.Plugin.dll"
+url: https://github.com/HickoryTrail/OmniTTS
+version: 1.0.0.0
+apiVersion: 2.1.1.0
 author: HickoryTrail
-version: 2.0.0.0
-apiVersion: 2.0.2.0
 icon: icon.png
 repoOwner: HickoryTrail
-repoName: IslandCaller
-assetsRoot: master/IslandCaller.Plugin2/
+repoName: OmniTTS
+assetsRoot: master/OmniTTS.Plugin/
+artifactName: HickoryTrail.OmniTTS.cipx

@@ -1,0 +1,16 @@
+id: ClassGuard
+name: ClassGuard 离班助手
+description: 下课一段时间后，将自动检查 USB 设备是否已弹出，以及指定软件是否仍在运行，避免教师离开教室前有所遗漏。
+entranceAssembly: ClassGuard.dll
+url: https://github.com/sky-shunfengjun/ClassGuard
+version: 1.0.1.0
+apiVersion: 2.1.0.1
+author: sky-shunfengjun
+readme: README.md
+icon: icon.png
+repoOwner: sky-shunfengjun
+repoName: ClassGuard
+assetsRoot: main
+artifactName: ClassGuard.cipx
+supportedOSPlatforms:
+  - Windows
