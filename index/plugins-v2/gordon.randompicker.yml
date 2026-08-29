@@ -1,0 +1,10 @@
+id: gordon.randompicker
+name: 随机抽选
+description: 桌面抽人悬浮窗。点击抽取名单中的一人，屏幕中央弹出大字；支持拍照抽人，从合影中检测人脸随机抽取。名单为纯文本，一行一个名字。
+entranceAssembly: "ClassIsland.RandomPicker.dll"
+url: https://github.com/Gordonynh/RandomPicker
+apiVersion: 2.0.0.0
+author: GordonYoung
+repoOwner: Gordonynh
+repoName: RandomPicker
+assetsRoot: main
