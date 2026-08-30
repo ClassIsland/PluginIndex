@@ -1,0 +1,12 @@
+id: ClassIslandCLIAddon
+name: ClassIslandCLIAddon
+description: 让AI帮你完成调课等任务！
+entranceAssembly: "ClassIslandCLIAddon.dll"
+url: "https://github.com/Buger2008/ClassIslandCLI"
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: Buger
+icon: icon.png
+repoOwner: Buger2008
+repoName: ClassIslandCLI
+assetsRoot: master/ClassIslandCLIAddon
