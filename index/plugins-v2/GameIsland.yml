@@ -1,6 +1,6 @@
 id: GameIsland
 name: GameIsland 小游戏合集
-version: 1.0.0.0
+version: 1.0.0.1
 author: yty16
 description: 46 款经典小游戏合集（棋牌、益智、动作、休闲），悬浮窗运行，支持键鼠/触控、中英双语、背景配乐与游戏音效。
 apiVersion: 2.0.0.0
