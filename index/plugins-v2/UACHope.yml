@@ -1,0 +1,10 @@
+id: uachope.classisland
+name: UACHope
+description: 启动 ClassIsland 时自动以管理员身份运行，无需手动操作。
+entranceAssembly: "UACHope.dll"
+url: https://github.com/ywydog/UACHope
+apiVersion: 2.0.0.0
+author: ywydog
+readme: README.md
+repoOwner: ywydog
+repoName: UACHope
