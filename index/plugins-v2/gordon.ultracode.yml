@@ -1,0 +1,10 @@
+id: gordon.ultracode
+name: 像素流动
+description: 仿 Claude Code UltraCode 的像素流动动画，替换提醒的遮罩层与正文层背景。配色跟随应用主题色，倒计时以彩带长度表示剩余时间。
+entranceAssembly: "ClassIsland.UltraCode.dll"
+url: https://github.com/Gordonynh/PixelFlow
+apiVersion: 2.0.0.0
+author: GordonYoung
+repoOwner: Gordonynh
+repoName: PixelFlow
+assetsRoot: main
