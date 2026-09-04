@@ -1,0 +1,13 @@
+id: MiIsland
+name: MiIsland 米家设备控制
+description: 在ClassIsland主界面显示和控制米家（小米智能家居）设备。支持查看设备状态、开关控制、亮度调节等功能。支持主界面组件和自动化触发（开发中）。
+entranceAssembly: "MiIsland.dll"
+url: https://github.com/yty16/MiIsland
+version: 0.0.9.2
+apiVersion: 2.0.0.0
+author: yty16
+readme: README.md
+icon: icon.png
+repoOwner: yty16
+repoName: MiIsland
+assetsRoot: master
