@@ -1,0 +1,17 @@
+id: classisland.secagent
+name: SecAgent 联动插件
+description: ClassIsland 与 SecAgent 联动插件，为 SecAgent 提供 ClassIsland 服务和课程安排查询工具。
+entranceAssembly: "ClassIsland.SecAgent.Plugin.dll"
+url: https://github.com/SECTL/ClassIsland-SecAgent-Plugin
+version: 0.1.0.0
+apiVersion: 2.0.0.0
+author: SECTL
+readme: README.md
+icon: icon.svg
+repoOwner: SECTL
+repoName: ClassIsland-SecAgent-Plugin
+assetsRoot: main/
+artifactName: ClassIsland.SecAgent.Plugin.cipx
+supportedOSPlatforms:
+  - Windows
+  - OSX
