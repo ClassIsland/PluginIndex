@@ -1,0 +1,17 @@
+# yty16
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: yty16.cipeckshield
+name: CI-PeekShield
+description: 调用电脑前置摄像头进行本地 AI 人脸检测，区分主用户与偷窥人员，检测到他人窥屏时触发防窥保护（雾化遮罩 / 弹窗 / 警报 / 最小化隐私软件）。
+entranceAssembly: "CI-PeekShield.dll"
+url: https://github.com/yty16/CI-PeekShield
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+icon: icon.png
+author: yty16
+repoOwner: yty16
+repoName: CI-PeekShield
+tagPattern: 1.**
