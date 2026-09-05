@@ -2,7 +2,7 @@ id: Classcaller
 name: Classcaller
 description: 一个基于 ClassIsland 的轻量级点名器（独立维护，支持自定义与密码保护）
 entranceAssembly: "Classcaller.dll"
-url: https://github.com/1sIancl/IslandCallerTopmostEnhancer
+url: https://github.com/1sIancl/Classcaller
 author: 1sIancl
 version: 1.2.1.0
 apiVersion: 2.1.1.1
@@ -10,7 +10,7 @@ icon: icon.png
 supportedOSPlatforms:
   - Windows
 repoOwner: 1sIancl
-repoName: IslandCallerTopmostEnhancer
+repoName: Classcaller
 assetsRoot: main
 artifactName: Classcaller.cipx
 tagPattern: "1.*.*.*"
