@@ -1,0 +1,11 @@
+id: liu554815.exam-mode
+name: 考试模式
+description: 提供考试倒计时、听力播放、考前提醒，以及带作业列表的北京时间大屏。
+entranceAssembly: "ExamModePlugin.dll"
+url: https://github.com/liu554815/ClassIsland-Exam-Clock-ModePlugin
+author: 松鼠
+version: 1.8.0.0
+apiVersion: 2.0.0.0
+repoOwner: liu554815
+repoName: ClassIsland-Exam-Clock-ModePlugin
+assetsRoot: main/
