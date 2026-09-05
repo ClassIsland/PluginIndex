@@ -4,7 +4,7 @@ description: 一个基于 ClassIsland 的轻量级点名器（独立维护，支
 entranceAssembly: "Classcaller.dll"
 url: https://github.com/1sIancl/Classcaller
 author: 1sIancl
-version: 1.2.2.0
+version: 1.2.2.1
 apiVersion: 2.1.1.1
 icon: icon.png
 supportedOSPlatforms:
