@@ -1,6 +1,6 @@
 id: AdvancedTimeIsland
 name: AdvancedTimeIsland
-version: 1.0.0.1
+version: 2.0.0.1
 apiVersion: 2.0.0.0
 author: inf2147483647
 description: 时光岛高级模块
@@ -11,3 +11,4 @@ repoName: AdvancedTimeIsland
 assetsRoot: master
 supportedOSPlatforms: [Windows]
 repoOwner: inf2147483647
+tagPattern: 2.x.x.x
