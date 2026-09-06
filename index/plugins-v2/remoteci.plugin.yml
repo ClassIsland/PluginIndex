@@ -4,11 +4,11 @@ description: 在手表上查看与控制你的课表
 entranceAssembly: "RemoteCI.Plugin.dll"
 icon: icon.png
 readme: README.md
-url: https://github.com/MEMZ-Edge01/RemoteCI
+url: https://github.com/Edge-HH/RemoteCI
 version: 3.2.1.2
 apiVersion: 2.0.0.0
-author: MEMZ-Edge01
-repoOwner: MEMZ-Edge01
+author: Edge-HH
+repoOwner: Edge-HH
 repoName: RemoteCI
 assetsRoot: main/plugin/RemoteCI.Plugin
 artifactName: RemoteCI.Plugin.cipx
