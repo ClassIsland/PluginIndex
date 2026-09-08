@@ -1,0 +1,22 @@
+# KeyboardCapture 插件上架清单（ClassIsland 插件市场，插件源 2.x）
+# 提交位置：https://github.com/ClassIsland/PluginIndex 的 index/plugins-v2/ 目录
+# 参考文档：https://docs.classisland.tech/dev/plugins/publishing.html
+# 发布 Release 的 Tag 必须严格为 a.b.c.d 格式，且与下方 version 一致。
+
+id: Starsky16.KeyboardCapture
+name: 键盘捕捉
+description: 全局键盘按键捕捉服务，供其他 ClassIsland 插件订阅全局按键事件。
+entranceAssembly: "KeyboardCapture.dll"
+url: https://github.com/Starsky16/KeyboardCapture
+version: 0.0.0.1
+apiVersion: 2.0.0.0
+author: Starsky16
+supportedOSPlatforms:
+  - Windows
+readme: README.md
+icon: icon.png
+
+repoOwner: Starsky16
+repoName: KeyboardCapture
+assetsRoot: main/
+artifactName: KeyboardCapture.cipx
