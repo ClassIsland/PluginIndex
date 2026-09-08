@@ -7,7 +7,7 @@ id: NotifyIsland
 name: NotifyIsland
 description: 通过 HTTP 接口触发 ClassIsland 提醒。监听 localhost:5002/notify，接收 POST JSON 请求并发送自定义提醒。
 entranceAssembly: "NotifyIsland.dll"
-url: https://github.com/ClassIsland/ClassIsland
+url: https://github.com/linxianlww/NotifyIsland
 version: 1.0.0.0
 apiVersion: 2.0.0.0
 author: 咏叹调 Aria
