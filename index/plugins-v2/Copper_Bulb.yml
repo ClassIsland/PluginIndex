@@ -1,0 +1,13 @@
+id: Copper_Bulb
+name: 铜灯
+description: 受 Minecraft 铜灯启发的自动化条件插件
+entranceAssembly: "Copper_Bulb.dll"
+url: https://github.com/inf2147483647/Copper-Bulb
+version: 2.0.0.0
+apiVersion: 2.0.0.0
+author: inf2147483647
+icon: icon.png
+repoName: Copper-Bulb
+assetsRoot: master
+supportedOSPlatforms: [Windows]
+repoOwner: inf2147483647
