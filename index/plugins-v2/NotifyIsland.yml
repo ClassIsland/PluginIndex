@@ -1,0 +1,17 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%
+
+id: NotifyIsland
+name: NotifyIsland
+description: 通过 HTTP 接口触发 ClassIsland 提醒。监听 localhost:5002/notify，接收 POST JSON 请求并发送自定义提醒。
+entranceAssembly: "NotifyIsland.dll"
+url: https://github.com/linxianlww/NotifyIsland
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: 咏叹调 Aria
+repoOwner: linxianlww
+repoName: NotifyIsland
+assetsRoot: master
+supportedOSPlatforms: [Windows]
