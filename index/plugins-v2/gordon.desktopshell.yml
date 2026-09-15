@@ -1,6 +1,6 @@
 id: gordon.desktopshell
 name: 桌面壳
-description: 把整个桌面换成一张 Bing 每日壁纸，中间一个大标题，底下一排大按钮——桌面上原有的文件和快捷方式就是这些按钮，点一下就开，连点只开一次。压在所有窗口之下，不遮挡课件。
+description: 把整个桌面换成一张壁纸，中间一个大标题，底下一排大按钮——桌面上原有的文件和快捷方式就是这些按钮，点一下就开，连点只开一次。壁纸可用 Bing 每日、Windows 聚焦、Wallhaven 风景、哈勃与韦布、本地图片和文件夹轮播，也可几个来源一起用。压在所有窗口之下，不遮挡课件。
 entranceAssembly: "ClassIsland.DesktopShell.dll"
 url: https://github.com/Gordonynh/DesktopShell
 apiVersion: 2.0.0.0
