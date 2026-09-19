@@ -1,0 +1,11 @@
+id: cn.lixiaotuan.notifyisland
+name: NotifyIsland
+description: 为ClassIsland提供一个触发通知的HTTP接口，并附带可通过HTTP修改内容的文本组件。
+entranceAssembly: "cn.lixiaotuan.notifyisland.dll"
+url: https://github.com/WoshiRedstone/NotifyIsland-ClassIsland2
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: tuanzi_awa
+repoOwner: TuanZiGit&WoshiRedstone
+repoName: NotifyIsland
+assetsRoot: master
