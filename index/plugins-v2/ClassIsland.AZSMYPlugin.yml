@@ -1,0 +1,16 @@
+# ClassIsland 插件市场索引条目（2.x 市场）
+# 提交路径：ClassIsland/PluginIndex 仓库 → index/plugins-v2/ClassIsland.AZSMYPlugin.yml
+id: ClassIsland.AZSMYPlugin
+name: AZS.Plus For Classisland
+description: 支持从本地 txt 文件读取文本轮播显示（多种过渡动画、长文本滚动、支持自定义文本颜色与渐变颜色、组句/混合句式），以及从表格导入生日并显示今日过生日的人数与名字。
+version: 1.1.0.1
+apiVersion: 2.0.0.0
+author: AZS3604
+entranceAssembly: "ClassIsland.AZSMYPlugin.dll"
+url: https://github.com/BrachTree/ClassIsland.AZSPLUSPlugin
+icon: icon.png
+readme: README.md
+repoOwner: BrachTree
+repoName: ClassIsland.AZSPLUSPlugin
+assetsRoot: master
+artifactName: ClassIsland.AZSMYPlugin.cipx
