@@ -7,6 +7,6 @@ repoOwner: HZYANG-2486
 repoName: CICUser
 assetsRoot: main
 artifactName: CICUser.cipx
-version: 1.0.0.0
+version: 1.0.0.1
 apiVersion: 2.0.0.0
 author: HZYANG
