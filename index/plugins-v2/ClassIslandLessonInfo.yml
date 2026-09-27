@@ -1,0 +1,11 @@
+﻿id: ClassIslandLessonInfo
+name: 褰撳墠璇剧▼淇℃伅
+description: 鍦?ClassIsland 涓荤晫闈㈠崟琛屾樉绀哄綋鍓嶈绋?娲诲姩涓庝笂涓嬭鏃堕棿锛屾敮鎸佽嚜瀹氫箟瀛楀彿銆佸簳閮ㄨ繘搴︽潯銆佸€掕鏃跺惊鐜垏鎹笌妯＄硦杩囨浮銆?
+entranceAssembly: "ClassIslandLessonInfo.dll"
+url: https://github.com/wy666666cn/ClassIslandLessonInfo
+version: 1.0.0.1
+apiVersion: 2.0.0.0
+author: wy
+repoOwner: wy666666cn
+repoName: ClassIslandLessonInfo
+assetsRoot: main/
