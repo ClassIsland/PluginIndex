@@ -1,0 +1,11 @@
+id: CICUser
+name: CICUser
+description: 一个支持自定义的课表与状态发送器
+entranceAssembly: "CICUser.dll"
+url: https://github.com/HZYANG-2486/CICUser
+repoOwner: HZYANG-2486
+repoName: CICUser
+assetsRoot: main
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: HZYANG
