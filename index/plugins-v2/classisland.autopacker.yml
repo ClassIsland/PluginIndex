@@ -1,0 +1,14 @@
+id: classisland.autopacker
+name: ClassIsland 一键打包
+description: 把整个 ClassIsland 程序目录（含 data 配置与插件）一键打包成 zip，输出到指定文件夹，用于备份或迁移到大屏。
+entranceAssembly: "ClassIsland.AutoPacker.dll"
+url: https://github.com/pioneer66679/classisland.autopacker
+repoOwner: pioneer66679
+repoName: classisland.autopacker
+assetsRoot: main
+artifactName: classisland.autopacker.cipx
+version: 1.0.2.0
+apiVersion: 2.0.0.0
+author: aaa人機課長
+supportedOSPlatforms:
+  - Windows
