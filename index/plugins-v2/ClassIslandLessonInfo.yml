@@ -1,9 +1,9 @@
-id: ClassIslandLessonInfo
-name: 当前课程信息
-description: 在 ClassIsland 主界面单行显示当前课程/活动与上下课时间，支持自定义字号、底部进度条、倒计时循环切换与模糊过渡。
+﻿id: ClassIslandLessonInfo
+name: 褰撳墠璇剧▼淇℃伅
+description: 鍦?ClassIsland 涓荤晫闈㈠崟琛屾樉绀哄綋鍓嶈绋?娲诲姩涓庝笂涓嬭鏃堕棿锛屾敮鎸佽嚜瀹氫箟瀛楀彿銆佸簳閮ㄨ繘搴︽潯銆佸€掕鏃跺惊鐜垏鎹笌妯＄硦杩囨浮銆?
 entranceAssembly: "ClassIslandLessonInfo.dll"
 url: https://github.com/wy666666cn/ClassIslandLessonInfo
-version: 1.0.0.0
+version: 1.0.0.1
 apiVersion: 2.0.0.0
 author: wy
 repoOwner: wy666666cn
