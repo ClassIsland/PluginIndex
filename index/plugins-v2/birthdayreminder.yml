@@ -1,0 +1,8 @@
+id: birthdayreminder
+name: 生日提醒
+description: 从 Excel 导入姓名与生日，支持当天/提前 1·3·7·30 天/自定义提醒，横幅 + 全屏庆祝动画 + 语音播报，附带“今日寿星 / 最近生日”主界面组件。
+entranceAssembly: "BirthdayReminder.dll"
+url: https://github.com/liuchenxuan/birthdayreminder
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: liuchenxuan
