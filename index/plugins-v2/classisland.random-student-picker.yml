@@ -1,0 +1,15 @@
+id: classisland.random-student-picker
+name: 随机抽取同学
+description: 在主界面组件上放一个「随机抽取」按钮，点击即可从备选同学名单中随机抽出一位同学，并支持在设置界面中维护名单与抽取选项。
+entranceAssembly: "ClassIsland.RandomStudentPicker.dll"
+url: https://github.com/gwjcfls/ClassIsland.RandomStudentPicker
+repoOwner: gwjcfls
+repoName: ClassIsland.RandomStudentPicker
+assetsRoot: main
+artifactName: ClassIsland.RandomStudentPicker.cipx
+tagPattern: 1.*.*.*
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: gwjcfls
+supportedOSPlatforms:
+  - Windows
