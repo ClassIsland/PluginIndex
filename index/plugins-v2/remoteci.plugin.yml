@@ -1,14 +1,14 @@
 id: remoteci.plugin
 name: RemoteCI
-description: 用于接入 RemoteCI 服务端，支持在WearOS手表App上执行换课、通知、主界面显示隐藏、音量、电源及扩展控制。
+description: 更好的集控:换课、通知、插件与实例管理和更多
 entranceAssembly: "RemoteCI.Plugin.dll"
 icon: icon.png
 readme: README.md
-url: https://github.com/MEMZ-Edge01/RemoteCI
-version: 3.2.1.2
+url: https://github.com/Edge-HH/RemoteCI
+version: 3.3.0.2
 apiVersion: 2.0.0.0
-author: MEMZ-Edge01
-repoOwner: MEMZ-Edge01
+author: Edge-HH
+repoOwner: Edge-HH
 repoName: RemoteCI
 assetsRoot: main/plugin/RemoteCI.Plugin
 artifactName: RemoteCI.Plugin.cipx
