@@ -1,11 +1,11 @@
 id: remoteci.plugin
 name: RemoteCI
-description: 第三方集控:换课、通知、插件与实例管理和更多
+description: 更好的集控:换课、通知、插件与实例管理和更多
 entranceAssembly: "RemoteCI.Plugin.dll"
 icon: icon.png
 readme: README.md
 url: https://github.com/Edge-HH/RemoteCI
-version: 3.3.0.1
+version: 3.3.0.2
 apiVersion: 2.0.0.0
 author: Edge-HH
 repoOwner: Edge-HH
