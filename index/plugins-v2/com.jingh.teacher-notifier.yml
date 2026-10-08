@@ -1,0 +1,21 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/dev/plugins/
+
+id: com.jingh.teacher-notifier
+name: 老师消息通知
+description: 通过 NapCat 接收老师的 QQ 消息，并在 ClassIsland 上以提醒方式通知。支持 HTTP/反向 WebSocket 双模式、Token 鉴权、白名单过滤、备注显示、语音朗读。
+entranceAssembly: "TeacherNotifier.dll"
+url: https://github.com/jinghengsun/TeacherNotifier
+version: 1.2.0.0
+apiVersion: 2.0.0.0
+author: 洋葱Onions
+readme: README.md
+icon: icon.png
+repoOwner: jinghengsun
+repoName: TeacherNotifier
+assetsRoot: main
+artifactName: TeacherNotifier.cipx
+supportedOSPlatforms:
+  - Windows
