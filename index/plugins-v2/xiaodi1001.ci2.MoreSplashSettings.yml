@@ -1,0 +1,18 @@
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: xiaodi1001.ci2.MoreSplashSettings
+name: MoreSplashScreen-Forci2
+description: 向 ClassIsland 添加更丰富多彩的启动画面！
+entranceAssembly: "MoreSplashScreen.dll"
+url: https://github.com/xiaodi1001/MoreSplashScreen-Forci2
+version: 0.0.1.0
+apiVersion: 2.1.0.0
+author: xiaodi1001 & HelloWRC
+repoOwner: xiaodi1001
+repoName: MoreSplashScreen-Forci2
+assetsRoot: main/MoreSplashScreen
+artifactName: MoreSplashScreen-Forci2.cipx
+supportedOSPlatforms:
+- Windows
