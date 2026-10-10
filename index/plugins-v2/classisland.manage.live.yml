@@ -1,0 +1,17 @@
+id: classisland.manage.live
+name: 岛枢 · 集控同步
+description: 连接岛枢 IslandHub 集控服务器，同步课务、组件与自动化，提供设备配置采集、远程通知和插件管理。
+entranceAssembly: ClassIslandManage.ClientPlugin.dll
+icon: icon.png
+readme: README.md
+apiVersion: 2.0.0.0
+version: 1.0.0.0
+supportedOSPlatforms:
+  - Windows
+  - Linux
+author: "neko_lfj"
+url: "https://github.com/neko-lfj/IslandHub"
+repoOwner: "neko-lfj"
+repoName: "IslandHub"
+assetsRoot: "main/ClassIslandManage.ClientPlugin"
+artifactName: classisland.manage.live.cipx
