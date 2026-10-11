@@ -1,0 +1,15 @@
+id: BetterNetworkStatus
+name: BetterNetworkStatus
+description: 更小巧的网络延迟显示组件，用信号格直观展示网络质量，支持紧凑模式。
+entranceAssembly: "BetterNetworkStatus.dll"
+url: https://github.com/yelina123/BetterNetworkStatus
+version: 1.0.0.0
+apiVersion: 2.2.0.0
+author: yelina123
+readme: README.md
+icon: icon.png
+repoOwner: yelina123
+repoName: BetterNetworkStatus
+assetsRoot: main
+supportedOSPlatforms:
+- Windows
