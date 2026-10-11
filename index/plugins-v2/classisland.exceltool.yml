@@ -1,0 +1,14 @@
+id: classisland.exceltool
+name: 档案 Excel 导入导出
+description: 将 ClassIsland 的课表（时间表/课程表）、科目、全局配置导出为 Excel 工作簿，也可以从 Excel 反向导入并回写到 ClassIsland 档案。
+entranceAssembly: "ClassIsland.ExcelTool.dll"
+url: https://github.com/pioneer66679/classisland.exceltool
+repoOwner: pioneer66679
+repoName: classisland.exceltool
+assetsRoot: main
+artifactName: classisland.exceltool.cipx
+version: 1.0.5.0
+apiVersion: 2.0.0.0
+author: aaa人機課長
+supportedOSPlatforms:
+  - Windows
