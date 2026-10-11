@@ -1,0 +1,10 @@
+id: xinxia.pluginsisland
+name: Pluginsisland
+description: 集中管理已装插件：启停、卸载；各插件之设置页折叠于「插件管理」导航组之下；支持从本地安装与双击 .cipx 安装。
+entranceAssembly: "Xinxia.Pluginsisland.dll"
+apiVersion: 2.0.0.0
+version: 1.0.1.0
+author: "79stardown"
+repoOwner: 79stardown
+repoName: Pluginsisland
+assetsRoot: main/Xinxia.Pluginsisland
