@@ -1,0 +1,16 @@
+id: Classcaller
+name: Classcaller
+description: ClassIsland 随机点名插件：公平抽选（防重复 + 历史均衡）、悬浮窗、全局快捷键点名、多名单、TTS 播报、外观自定义与密码保护
+entranceAssembly: "Classcaller.dll"
+url: https://github.com/1sIancl/Classcaller
+author: 1sIancl
+version: 1.2.5.0
+apiVersion: 2.1.1.1
+icon: icon.png
+supportedOSPlatforms:
+  - Windows
+repoOwner: 1sIancl
+repoName: Classcaller
+assetsRoot: main
+artifactName: Classcaller.cipx
+tagPattern: "1.*.*.*"
