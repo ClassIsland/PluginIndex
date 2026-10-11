@@ -1,0 +1,14 @@
+id: schedule.is
+name: Schedule.is
+description: 为 Time.is 网页大屏提供课表与上下课倒计时同步服务
+author: 缎金SatinAu
+version: 0.0.0.2
+apiVersion: 2.0.0.0
+entranceAssembly: ScheduleIsPlugin.dll
+icon: logo.png
+url: https://github.com/SatinAu-Zelynn/Schedule.is-Plugin
+repoOwner: SatinAu-Zelynn
+repoName: Schedule.is-Plugin
+assetsRoot: main
+supportedOSPlatforms:
+  - Windows
