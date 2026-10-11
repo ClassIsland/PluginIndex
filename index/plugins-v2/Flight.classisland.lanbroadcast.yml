@@ -1,0 +1,15 @@
+id: Flight.classisland.lanbroadcast
+name: 局域网广播通知
+description: 允许通过局域网 Web 页面向 ClassIsland 显示栏发送并持久化广播消息。
+entranceAssembly: MyPlugin.dll
+url: https://github.com/HanXiMC/CLassisland_broadcast
+repoOwner: HanXiMC
+repoName: CLassisland_broadcast
+assetsRoot: main/
+artifactName: MyPlugin.cipx
+version: 2.0.0.0
+apiVersion: 2.0.0.0
+author: Flight
+icon: icon.png
+supportedOSPlatforms:
+  - Windows
