@@ -1,0 +1,15 @@
+id: inkcanvas.iccce.secagent
+name: ICC-CE SecAgent HTTP Plugin
+description: ICC-CE 与 SecAgent 联动插件，为 SecAgent 提供 ICC-CE HTTP 服务，并自动请求安装 SecAgent Connector。
+entranceAssembly: "ICC-CE.SecAgent.Plugin.dll"
+url: https://github.com/SECTL/ICC-CE-SecAgent-Plugin
+version: 0.2.0
+apiVersion: 1.0.0
+author: SECTL
+readme: README.md
+repoOwner: SECTL
+repoName: ICC-CE-SecAgent-Plugin
+assetsRoot: main/
+artifactName: inkcanvas.iccce.secagent.icpx
+supportedOSPlatforms:
+  - Windows
