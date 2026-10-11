@@ -1,0 +1,21 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: facelate.attendance
+name: 人脸考勤
+description: 在设定的时间自动用摄像头连拍多张照片，调用本地开源轻量人脸模型（YuNet 检测 + 多款可选识别模型）与花名册逐个比对，自动找出考勤迟到的同学，并在主界面组件中展示迟到名单；支持按星期分别设置时间、多张脸时手动框选、多款识别模型自动挑选，也可挂到自动化规则集上（例如晚自习）。
+entranceAssembly: "ClassIsland.Plugin.FaceLate.dll"
+url: https://github.com/YSA887/ClassIsland.Plugin.FaceLate
+version: 1.2.3.0
+apiVersion: 2.1.0.0
+author: YSA887
+readme: README.md
+icon: icon.png
+repoOwner: YSA887
+repoName: ClassIsland.Plugin.FaceLate
+assetsRoot: main
+artifactName: ClassIsland.Plugin.FaceLate.cipx
+supportedOSPlatforms:
+  - Windows
