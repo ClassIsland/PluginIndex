@@ -1,0 +1,12 @@
+id: cn.leafsc.cyquote_ci_plugin
+name: 昔言
+description: 在主界面上显示昔言
+entranceAssembly: "CyQuotePlugin.dll"
+url: https://github.com/LeafS825/CyQuote_CI_Plugin
+repoOwner: LeafS825
+repoName: CyQuote_CI_Plugin
+assetsRoot: main/CyQuotePlugin
+artifactName: CyQuotePlugin.cipx
+version: 1.0.0.0
+apiVersion: 2.1.0.1
+author: LeafS825
