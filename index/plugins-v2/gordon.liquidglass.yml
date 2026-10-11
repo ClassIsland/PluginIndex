@@ -1,0 +1,10 @@
+id: gordon.liquidglass
+name: 液态玻璃
+description: 把状态栏换成苹果液态玻璃质感，折射背后实际显示的内容，而不是简单加一层半透明。
+entranceAssembly: "ClassIsland.LiquidGlass.dll"
+url: https://github.com/Gordonynh/LiquidGlass
+apiVersion: 2.0.0.0
+author: GordonYoung
+repoOwner: Gordonynh
+repoName: LiquidGlass
+assetsRoot: main

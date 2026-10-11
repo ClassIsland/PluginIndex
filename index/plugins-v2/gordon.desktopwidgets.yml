@@ -1,0 +1,10 @@
+id: gordon.desktopwidgets
+name: 桌面小组件
+description: 苹果桌面小组件那一套，搬到 Windows 上给教室大屏用。自带时钟、课程表、天气、雨云图、值日、倒计时、便签等 15 个小组件；默认压在所有窗口之下，回到桌面才看得见。
+entranceAssembly: "ClassIsland.DesktopWidgets.dll"
+url: https://github.com/Gordonynh/DesktopWidgets
+apiVersion: 2.0.0.0
+author: GordonYoung
+repoOwner: Gordonynh
+repoName: DesktopWidgets
+assetsRoot: main
