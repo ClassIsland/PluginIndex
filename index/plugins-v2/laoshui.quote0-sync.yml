@@ -1,0 +1,9 @@
+id: laoshui.quote0-sync
+name: Quote/0 课表同步
+description: 将当前课表、天气和广播排期推送到 Quote/0 (Dot.) 墨水屏
+entranceAssembly: "Quote0SyncPlugin.dll"
+url: https://github.com/laoshuikaixue/Quote0SyncPlugin
+repoOwner: laoshuikaixue
+repoName: Quote0SyncPlugin
+assetsRoot: master
+apiVersion: 2.0.0.0
