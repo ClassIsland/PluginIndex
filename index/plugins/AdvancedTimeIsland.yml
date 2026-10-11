@@ -1,0 +1,14 @@
+id: AdvancedTimeIsland
+name: AdvancedTimeIsland
+version: 1.7.0.1
+apiVersion: 1.7.0.1
+author: inf2147483647
+description: 时光岛高级模块
+entranceAssembly: AdvancedTimeIsland.dll
+icon: icon.png
+url: https://github.com/inf2147483647/AdvancedTimeIsland
+repoName: AdvancedTimeIsland
+assetsRoot: master
+supportedOSPlatforms: [Windows]
+repoOwner: inf2147483647
+tagPattern: 1.7.x.x
