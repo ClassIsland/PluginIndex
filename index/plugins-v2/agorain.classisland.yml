@@ -1,0 +1,15 @@
+id: agorain.classisland
+name: AgoraIn 联动插件
+description: 与 AgoraIn 集控平台联动，接收教师端发送的呼叫（待下课时段通知 / 上课应急通知 / 下课传唤），按 ClassIsland 课表状态呼出，顶部提示栏倒计时展示并中文语音朗读
+entranceAssembly: "AgoraIn.ClassIslandPlugin.dll"
+url: https://doc.615mc.cn
+repoOwner: liuyuchen012
+repoName: AgoraIn
+assetsRoot: v3.2/AgoraIn.ClassIslandPlugin
+artifactName: ClassIsland.Plugin.cipx
+tagPattern: 2.5.0.*
+version: 2.5.0.0
+apiVersion: 2.0.0.0
+author: 刘宇晨（liuyuchen012）
+supportedOSPlatforms:
+- Windows
