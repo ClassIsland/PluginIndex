@@ -1,0 +1,13 @@
+id: MiMoTTS
+name: MiMoTTS
+description: 使 ClassIsland 的语音服务适配 Xiaomi MiMo TTS API（ClassIsland 1.x 专用包）
+entranceAssembly: "MiMoTTS.CI1.dll"
+url: https://github.com/lladlam/ClassIsland-MiMoTTS
+version: 1.2.5.0
+apiVersion: 1.7.0.0
+author: lladlam
+repoOwner: lladlam
+repoName: ClassIsland-MiMoTTS
+assetsRoot: main/MiMoTTS.CI1
+artifactName: MiMoTTS.CI1.cipx
+icon: icon.ico
