@@ -1,0 +1,15 @@
+# ClassIsland 插件市场索引文件（放进 PluginIndex 仓库的 index/plugins-v2/ 目录）
+id: ClassSlideSync.Plugin
+name: 课件续页
+description: 记录每份课件的讲授进度：下次打开同一份课件时，在屏幕边上显示"上次停在第几页"，点一下就从那一页接着放映。支持 PowerPoint 与 WPS 演示。
+entranceAssembly: "ClassSlideSync.Plugin.dll"
+url: https://github.com/KKT446/ClassSlideSync
+version: 1.0.1.0
+apiVersion: 2.0.0.0
+author: kkt446
+repoOwner: KKT446
+repoName: ClassSlideSync
+assetsRoot: main/
+artifactName: ClassSlideSync.Plugin.cipx
+supportedOSPlatforms:
+  - Windows
