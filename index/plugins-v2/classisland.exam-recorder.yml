@@ -1,0 +1,15 @@
+id: classisland.exam-recorder
+name: ExamAware2联系人
+description: 把标记为「考试科目」的课自动记录成 ExamAware 考试档案，并推送信号给 ExamAware 的自动放映插件
+entranceAssembly: "ClassIsland.ExamRecorderPlugin.dll"
+url: https://github.com/1duye/ClassIsland.ExamRecorderPlugin
+version: 0.0.0.14
+apiVersion: 2.0.0.0
+author: 1duye
+readme: README.md
+icon: icon.png
+repoOwner: 1duye
+repoName: ClassIsland.ExamRecorderPlugin
+assetsRoot: main
+supportedOSPlatforms:
+- Windows
