@@ -1,0 +1,16 @@
+id: olykin.classdesktopmanager
+name: classDesktopManager 课程联动
+description: 把 ClassIsland 的当前课程写入本地状态文件，供 classDesktopManager 按课程把桌面/下载文件归档到对应科目文件夹。
+entranceAssembly: ClassDesktopManagerBridge.dll
+url: https://github.com/olykin/classDesktopManager
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: olykin
+readme: README.md
+icon: icon.png
+repoOwner: olykin
+repoName: classDesktopManager
+assetsRoot: main/classisland-plugin
+artifactName: ClassDesktopManagerBridge.cipx
+supportedOSPlatforms:
+  - Windows
