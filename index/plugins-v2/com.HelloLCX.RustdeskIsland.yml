@@ -1,0 +1,14 @@
+id: com.hellolcx.rustdeskisland
+name: RustdeskIsland
+description: 开箱即用的 RustDesk 远程控制被控端——内置 RustDesk 程序与后台服务，无需单独安装。所有远控设置集中在插件设置页，多平台自动适配；远控方输入本机 ID 即可连接。
+entranceAssembly: "RustdeskIsland.dll"
+url: https://github.com/HelloLCX/RustdeskIsland
+version: 1.2.1.0
+apiVersion: 2.0.0.0
+author: HelloLCX
+
+# —— 市场字段 ——
+repoOwner: HelloLCX
+repoName: RustdeskIsland
+assetsRoot: main/RustdeskIsland    # 请确保插件项目文件夹名一致
+artifactName: RustdeskIsland.cipx   # 可选但建议填
