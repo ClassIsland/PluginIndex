@@ -6,8 +6,8 @@ url: https://github.com/PikaNova/ClassIsland.ExamReminder
 repoOwner: PikaNova
 repoName: ClassIsland.ExamReminder
 assetsRoot: main
-artifactName: ClassIsland.ExamReminder.cipx
-version: 0.2.6.0
+artifactName: ClassIsland.ExamReminder-0.3.2.1.cipx
+version: 0.3.2.1
 apiVersion: 2.0.0.0
 author: PikaNova
 supportedOSPlatforms:
