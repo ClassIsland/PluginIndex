@@ -1,0 +1,14 @@
+id: local.classisland.adaptive-text
+name: 墨白 · InkWhite
+description: 仅适配 ClassIsland 2.1.0.1；背景稳定后，文字、天气图标与分割线统一切换黑白颜色。
+entranceAssembly: AdaptiveText.dll
+url: https://github.com/subolin0000/ClassIsland-InkWhite
+repoOwner: subolin0000
+repoName: ClassIsland-InkWhite
+assetsRoot: main/
+apiVersion: 2.1.0.1
+version: 0.1.7.0
+author: 苏泊林 / subolin
+icon: icon.png
+supportedOSPlatforms:
+  - Windows
