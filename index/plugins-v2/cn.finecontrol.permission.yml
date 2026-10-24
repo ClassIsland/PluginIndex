@@ -1,0 +1,13 @@
+id: cn.finecontrol.permission
+name: ClassIsland 精细化管理插件
+version: 1.5.14.0
+apiVersion: 2.0.0.0
+author: AnnSnow
+description: 本插件为接入集控的 ClassIsland 客户端提供精细化的设置项权限管理。
+entranceAssembly: ClassIslandFineControl.dll
+icon: icon.png
+url: https://github.com/Ann-Snow/ClassIslandFineControl
+repoOwner: Ann-Snow
+repoName: ClassIslandFineControl
+assetsRoot: main
+supportedOSPlatforms: [Windows]
