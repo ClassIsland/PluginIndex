@@ -1,0 +1,15 @@
+id: remote.call
+name: 远程呼叫RemoteCall
+description: 局域网内其他设备通过网页向 ClassIsland 发送消息，消息以主界面组件轮流展示，并在收到时弹出标准提醒。
+entranceAssembly: "RemoteCall.dll"
+url: https://github.com/yee114514/RemoteCall
+repoOwner: yee114514
+repoName: RemoteCall
+assetsRoot: main/src/RemoteCall
+artifactName: RemoteCall.cipx
+tagPattern: "1.*.*.*"
+version: 1.0.0.0
+apiVersion: 2.1.0.0
+author: yee114514
+supportedOSPlatforms:
+  - Windows
