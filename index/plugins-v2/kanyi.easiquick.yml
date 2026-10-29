@@ -1,0 +1,14 @@
+id: kanyi.easiquick
+name: 希沃快捷登录
+description: 管理希沃账号，通过本地 SSO 网关为希沃白板提供快捷登录。
+entranceAssembly: "SeewoAutoLogin.Plugin.dll"
+url: https://github.com/Kanyi40/SeewoQuickLogin
+repoOwner: Kanyi40
+repoName: SeewoQuickLogin
+assetsRoot: main/SeewoAutoLogin.Plugin
+artifactName: SeewoAutoLogin.Plugin.cipx
+version: 0.2.4.0
+apiVersion: 2.0.0.0
+author: 戡弈
+supportedOSPlatforms:
+- Windows
