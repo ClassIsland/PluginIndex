@@ -1,0 +1,13 @@
+id: io.github.tianchai66.plugin
+name: Uri 弹窗通知
+description: 通过 URI 调用在 ClassIsland 上显示弹窗提醒。
+entranceAssembly: "UriNotifyPlugin.dll"
+apiVersion: 2.0.0.0
+url: https://github.com/TianChai66/notify.classisland
+author: TianChai66
+version: 0.2.0
+icon: icon.png
+readme: README.md
+repoOwner: TianChai66
+repoName: notify.classisland
+assetsRoot: main/
