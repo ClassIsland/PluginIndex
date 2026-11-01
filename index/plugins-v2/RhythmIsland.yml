@@ -1,0 +1,17 @@
+id: RhythmIsland
+name: 律动频谱 RhythmIsland
+description: 为 ClassIsland 提供默认扬声器实时频谱组件和内置主界面背景频谱。
+entranceAssembly: RhythmIsland.dll
+url: https://github.com/sky-shunfengjun/RhythmIsland
+author: sky-shunfengjun
+version: 1.1.0.0
+apiVersion: 2.1.0.1
+icon: icon.png
+banner: banner.png
+readme: ../../README.md
+repoOwner: sky-shunfengjun
+repoName: RhythmIsland
+assetsRoot: main/src/RhythmIsland.Plugin
+artifactName: RhythmIsland.cipx
+supportedOSPlatforms:
+  - Windows
