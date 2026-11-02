@@ -3,7 +3,7 @@ name: 批改邦喊话桥接
 description: 接收批改邦「教室远程喊话」，在 ClassIsland 上以飞行动画玻璃卡片弹出，带提示音与语音播报。
 entranceAssembly: PgbShoutBridge.dll
 url: https://github.com/Starwish1072/pgb-shoutbridge
-version: 1.2.Next1.0
+version: 1.2.0.1
 apiVersion: 2.0.0.0
 author: Starwish1072
 readme: README.md
