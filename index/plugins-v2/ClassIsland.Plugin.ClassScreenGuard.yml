@@ -1,0 +1,14 @@
+id: ClassIsland.Plugin.ClassScreenGuard
+name: 教室屏幕操作锁
+description: 保持当前屏幕画面可见并锁定鼠标、触摸和键盘；支持热键或右下角按钮打开密码框，密码错误可不限次数重试。
+entranceAssembly: "ClassScreenGuard.dll"
+url: https://github.com/mjdds/ClassScreenGuard
+version: 1.2.0.0
+apiVersion: 2.0.0.0
+author: mjdds
+repoOwner: mjdds
+repoName: ClassScreenGuard
+assetsRoot: main/
+artifactName: ClassScreenGuard.cipx
+supportedOSPlatforms:
+  - Windows
