@@ -1,0 +1,16 @@
+id: mmckb.fancontrol
+name: 风扇控制
+description: 查看风扇实时转速，并按百分比调节风扇转速。支持多风扇、主界面转速组件与自动化行动。
+entranceAssembly: mmckb.fancontrol.dll
+url: https://github.com/MMCKB/FanPlugin
+version: 1.0.8.0
+apiVersion: 2.1.0.1
+author: MMCKB
+readme: README.md
+icon: icon.png
+repoOwner: MMCKB
+repoName: FanPlugin
+assetsRoot: main/mmckb.fancontrol
+artifactName: mmckb.fancontrol.cipx
+supportedOSPlatforms:
+  - Windows
