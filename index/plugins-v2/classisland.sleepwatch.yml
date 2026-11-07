@@ -11,5 +11,4 @@ supportedOSPlatforms:
 repoOwner: ShirakawaFM
 repoName: ClassIsland.SleepWatch
 assetsRoot: main/
-artifactName: ClassIsland.SleepWatch.cipx
 tagPattern: 1.*.*.*
