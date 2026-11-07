@@ -4,7 +4,7 @@ description: 按「连续静置时长」判断谁睡着了：静置进疑似、�
 entranceAssembly: "ClassIsland.SleepWatch.dll"
 url: https://github.com/ShirakawaFM/ClassIsland.SleepWatch
 version: 1.5.0.0
-apiVersion: 2.1.1.1
+apiVersion: 2.1.0.1
 author: ShirakawaFM / 白川方明
 supportedOSPlatforms:
   - Windows
