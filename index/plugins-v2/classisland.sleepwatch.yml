@@ -1,9 +1,9 @@
 id: classisland.sleepwatch
 name: SleepWatch 课堂睡意监测
-description: 接一路教室摄像头，识别趴桌和长时间没睁眼的学生，在主界面显示「疑似睡着」人数，下课后给一份总结。画面只在本机内存里过，不存盘、不上传、不做人脸识别。
+description: 按「连续静置时长」判断谁睡着了：静置进疑似、撑够才确认，主界面显示确认沉睡人数与抬头率，下课后给一份总结。画面只在本机内存里过，不认人、不联网、默认不存画面。
 entranceAssembly: "ClassIsland.SleepWatch.dll"
 url: https://github.com/ShirakawaFM/ClassIsland.SleepWatch
-version: 1.4.0.0
+version: 1.5.0.0
 apiVersion: 2.1.1.1
 author: ShirakawaFM / 白川方明
 supportedOSPlatforms:
