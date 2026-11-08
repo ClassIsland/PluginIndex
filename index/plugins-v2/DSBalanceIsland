@@ -1,0 +1,22 @@
+# nonk8s
+# 插件清单文件使用 YAML 格式存储。
+# YAML 教程：https://www.runoob.com/w3cnote/yaml-intro.html
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#%E6%8F%92%E4%BB%B6%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6
+
+id: DSBalanceIsland
+name: DeepSeek 余额
+description: 在 ClassIsland 中显示 DeepSeek 余额的插件。
+entranceAssembly: "DSBalanceIsland.dll"
+url: https://github.com/tiancra/DSBalanceIsland
+repoOwner: tiancra
+repoName: DSBalanceIsland
+assetsRoot: main/
+artifactName: DSBalanceIsland.cipx
+tagPattern: 1.*.*.*
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: 小天是个小男娘
+supportedOSPlatforms:
+- Windows
+- Linux
+- OSX
