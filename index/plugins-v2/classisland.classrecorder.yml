@@ -1,0 +1,15 @@
+id: classisland.classrecorder
+name: 上课录制
+description: 在指定课程期间使用麦克风录制课堂音频，直接编码为 Opus，支持提前/延后录制、写入缓冲、滚动存储与意外恢复。
+entranceAssembly: "ClassIsland.ClassRecorderPlugin.dll"
+url: https://github.com/Nether-wart/ClassIsland.ClassRecorderPlugin
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: Nether-wart
+icon: icon.png
+readme: README.md
+repoOwner: Nether-wart
+repoName: ClassIsland.ClassRecorderPlugin
+assetsRoot: main
+artifactName: ClassIsland.ClassRecorderPlugin.cipx
+supportedOSPlatforms: [Windows]
