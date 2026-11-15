@@ -1,0 +1,14 @@
+id: classisland.devicestatus.dot
+name: 设备占用指示点
+description: 橙点表示麦克风、绿点表示摄像头。被占用时弹出实心圆点提示，随后缩回隐藏。
+entranceAssembly: "ClassIslandDeviceDot.dll"
+url: https://github.com/lwx-ex/classlsland-
+repoOwner: lwx-ex
+repoName: classlsland-
+assetsRoot: main
+artifactName: ClassIslandDeviceDot.cipx
+version: 1.0.0.0
+apiVersion: 2.1.0.0
+author: lwx-ex
+supportedOSPlatforms:
+- Windows
