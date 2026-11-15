@@ -7,7 +7,7 @@ name: 小橙看班联动
 description: 监听「小橙看班」(inArt_PC) 的目标窗口出现、标题变化与 UI Automation 文本，命中关键词后通过 ClassIsland 弹出提醒。
 entranceAssembly: XiaoChengLink.dll
 url: https://github.com/MuttonIsHere/ClassIsland.XiaoChengLink
-version: 2.1.0
+version: 2.1.1
 apiVersion: 2.1.0.0
 author: XiaoChengLink
 icon: icon.png
