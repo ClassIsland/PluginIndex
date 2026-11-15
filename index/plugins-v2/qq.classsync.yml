@@ -1,0 +1,18 @@
+# nonk8s
+# 插件清单文件，字段说明见：
+# https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/
+
+id: qq.classsync
+name: QQ 调课同步
+description: 监听 QQ 群聊/私聊里的「#调课」消息，自动给临时层课表打补丁并弹出 ClassIsland 提醒。
+entranceAssembly: QqClassSync.dll
+url: https://github.com/MuttonIsHere/QqClassSync
+version: 1.4.1
+apiVersion: 2.0.0.0
+author: 大肥鱼
+icon: plugin/QqClassSync/icon.png
+readme: README.md
+repoOwner: MuttonIsHere
+repoName: QqClassSync
+assetsRoot: main
+artifactName: QqClassSync.cipx
