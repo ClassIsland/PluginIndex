@@ -4,14 +4,14 @@
 
 id: bywhite.mediaisland
 name: MediaIsland
-description: 在主界面显示 Windows SMTC 媒体信息。（社区维护版 1.2.0，含歌词同步修复）
+description: 在主界面显示 Windows SMTC 媒体信息。
 entranceAssembly: "MediaIsland.dll"
-url: https://github.com/MuttonIsHere/MediaIsland
-version: 1.2.0
-apiVersion: 2.2.0.0
+url: https://github.com/bywhite0/MediaIsland
+version: 1.1.0.0
+apiVersion: 2.0.0.1
 author: bywhite0
 readme: README.md
 icon: icon.png
-repoOwner: MuttonIsHere
+repoOwner: bywhite0
 repoName: MediaIsland
 assetsRoot: master/MediaIsland
