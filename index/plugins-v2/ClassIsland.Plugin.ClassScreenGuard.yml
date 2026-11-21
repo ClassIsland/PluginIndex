@@ -3,7 +3,7 @@ name: 教室屏幕操作锁
 description: 保持当前屏幕画面可见并锁定鼠标、触摸和键盘；支持全局 Admin 连续输入解锁、注销恢复和允许锁定时段。
 entranceAssembly: "ClassScreenGuard.dll"
 url: https://github.com/mjdds/ClassScreenGuard
-version: 1.5.2.0
+version: 1.5.2.1
 apiVersion: 2.0.0.0
 author: mjdds
 readme: README.md
