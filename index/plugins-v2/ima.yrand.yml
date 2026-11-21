@@ -1,0 +1,23 @@
+# 插件清单文件使用 YAML 格式存储。
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/#插件清单文件
+# 上架规范：https://docs.classisland.tech/dev/plugins/publishing.html
+
+id: ima.yrand
+name: YRANDOM
+description: >-
+  ClassIsland 课堂随机点名插件。名字在同一条提醒上原地滚动换名、两段式定格连滑；
+  债务校正 + Gumbel 加权 + 冷落滑窗的公平算法，麦克风声浪加成，结果可复算自证。
+entranceAssembly: "ClassIsland.YRAND.dll"
+url: https://github.com/foxcj26/YRANDOM
+version: 2.0.0.19
+apiVersion: 2.0.0.0
+author: foxcj26 与 workbuddy
+repoOwner: foxcj26
+repoName: YRANDOM
+assetsRoot: main/plugin/
+icon: icon.png
+readme: README.md
+supportedOSPlatforms:
+  - Windows
+  - Linux
+  - OSX
