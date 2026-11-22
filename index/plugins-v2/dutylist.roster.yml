@@ -1,0 +1,19 @@
+id: dutylist.roster
+name: 值日提醒与排班
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+entranceAssembly: DutyRoster.dll
+description: 值日提醒与排班。组别×值日类型二维编辑值日表，按周/按日/双周轮换，主界面显示当前值日组，值日时段自动提醒相关同学。
+author: MajHarv
+url: https://github.com/MajHarv/ClassIsland-DutyRoster
+repoOwner: MajHarv
+repoName: ClassIsland-DutyRoster
+assetsRoot: main
+artifactName: DutyRoster.cipx
+tagPattern: 1.*.*.*
+readme: README.md
+icon: icon.png
+supportedOSPlatforms:
+- Windows
+- Linux
+- OSX
