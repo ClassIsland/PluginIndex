@@ -1,0 +1,16 @@
+id: classisland.birthday
+name: 同学生日板
+description: 在主界面显示今天过生日的同学姓名；支持公历/农历生日，并可设置倒计时的最大天数。
+entranceAssembly: "BirthdayBoard.dll"
+url: https://github.com/cloudreamed/classisland.birthday
+repoOwner: cloudreamed
+repoName: classisland.birthday
+assetsRoot: main
+artifactName: BirthdayBoard.cipx
+version: 1.2.0.0
+apiVersion: 2.1.0.1
+author: zepher
+supportedOSPlatforms:
+- Windows
+- Linux
+- OSX
