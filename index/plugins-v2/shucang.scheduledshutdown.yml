@@ -1,0 +1,15 @@
+id: shucang.scheduledshutdown
+name: 定时关机
+description: 在 ClassIsland 中设置定时关机、重启、注销或睡眠，并支持循环计划、持续提醒与开机保护。
+entranceAssembly: ScheduledShutdown.dll
+url: https://github.com/MrShucang/Time
+version: 2.0.0.5
+apiVersion: 2.1.0.1
+author: By_Shucang
+repoOwner: MrShucang
+repoName: Time
+assetsRoot: main
+artifactName: ScheduledShutdown.cipx
+tagPattern: 2.*.*.*
+supportedOSPlatforms:
+  - Windows
