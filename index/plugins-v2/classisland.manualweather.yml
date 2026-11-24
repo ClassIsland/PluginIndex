@@ -3,7 +3,7 @@ name: 手动天气
 description: 在网络不可用时离线推算天气温度
 entranceAssembly: "ManualWeatherPlugin.dll"
 url: https://github.com/MrShucang/ManualWeatherPlugin
-version: 1.0.6.0
+version: 1.0.7.0
 apiVersion: 2.0.0.0
 author: MrShucang
 readme: README.md
