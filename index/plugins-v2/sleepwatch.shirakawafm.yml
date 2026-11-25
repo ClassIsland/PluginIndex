@@ -1,0 +1,15 @@
+id: sleepwatch.shirakawafm
+name: SleepWatch 课堂睡意监测
+description: 按「连续静置时长」判断谁睡着了：静置进疑似、撑够才确认，主界面显示确认沉睡人数与抬头率。不认人、不联网、默认不存画面。纯娱乐向，数字仅供参考。
+entranceAssembly: "ShirakawaFM.SleepWatch.dll"
+url: https://github.com/ShirakawaFM/ClassIsland.SleepWatch
+version: 1.5.3.0
+apiVersion: 2.1.0.1
+author: ShirakawaFM / 白川方明
+supportedOSPlatforms:
+  - Windows
+repoOwner: ShirakawaFM
+repoName: ClassIsland.SleepWatch
+assetsRoot: main/
+artifactName: ClassIsland.SleepWatch_for_ClassIsland_2.1.0.1.cipx
+tagPattern: 1.*.*.*
