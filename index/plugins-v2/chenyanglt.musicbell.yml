@@ -1,0 +1,18 @@
+# 插件清单文件使用 YAML 格式存储。
+# 插件清单格式：https://docs.classisland.tech/zh-cn/latest/dev/plugins/create-project/
+
+id: chenyanglt.musicbell
+name: MusicBell 点歌铃
+description: 在 ClassIsland 的行动里放歌：把歌名交给 MusicBell，由它打开网易云并搜索播放。
+entranceAssembly: "MusicBell.ClassIsland.dll"
+url: https://github.com/ChenyangLT/MusicBell.ClassIsland
+version: 1.0.0.1
+apiVersion: 2.1.0.1
+author: ChenyangLT
+readme: README.md
+icon: icon.png
+repoOwner: ChenyangLT
+repoName: MusicBell.ClassIsland
+assetsRoot: main
+artifactName: MusicBell.ClassIsland.cipx
+supportedOSPlatforms: [Windows]
