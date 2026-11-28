@@ -1,0 +1,15 @@
+id: classisland.mqttcaller
+name: MQTT 喊人
+description: 通过 MQTT 接收喊人消息，在 ClassIsland 浮窗下方弹出同风格窗口并朗读。支持参数控制朗读开关与次数。
+entranceAssembly: ClassIsland.MqttCaller.dll
+url: https://github.com/shenglihalisen/ClassIsland.MqttCaller
+version: 1.0.0.0
+apiVersion: 2.0.0.0
+author: shenglihalisen
+readme: README.md
+icon: icon.png
+repoOwner: shenglihalisen
+repoName: ClassIsland.MqttCaller
+assetsRoot: main
+artifactName: ClassIsland.MqttCaller.cipx
+supportedOSPlatforms: [Windows]
