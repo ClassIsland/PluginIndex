@@ -1,0 +1,14 @@
+id: classisland.devicestatus.dot
+name: 设备占用指示点
+description: 橙点=麦克风、绿点=摄像头。占用时弹出带图标的大圆点，随后缩回小圆点；释放后消失。一个包兼容 ClassIsland 2.1.0.1 与 2.1.2.0。
+entranceAssembly: "ClassIslandDeviceDot.dll"
+url: https://github.com/lwx-ex/classisland-device-dot
+repoOwner: lwx-ex
+repoName: classisland-device-dot
+assetsRoot: main
+artifactName: ClassIslandDeviceDot.cipx
+version: 1.1.0.0
+apiVersion: 2.1.0.0
+author: lwx-ex
+supportedOSPlatforms:
+- Windows
